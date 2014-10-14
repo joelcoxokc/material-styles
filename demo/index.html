@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Oxford Demo</title>
+  <!-- build:css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+  <!-- endbuild -->
+ <link rel="import" href="http://www.polymer-project.org/components/paper-ripple/paper-ripple.html">
+  <!-- <link rel="stylesheet" href="bootstrap-material-design/material-wfont.css"> -->
+  <!-- <link rel="stylesheet" href="bootstrap-material-design/material.css"> -->
+
+  <link rel="stylesheet" href="styles/bootstrap.custom.css" />
+  <link rel="stylesheet" href="styles/demo.css">
+
+
+  <!-- styles:css -->
+  <link rel="stylesheet" href="/material-colors.css">
+  <!-- endinject -->
+
+
+</head>
+<body>
+  <section class="container">
+    <!-- BACKGROUNDS -->
+      <section class="row block-section">
+        <div class="col-md-6">
+          <blockquote class="section-header" border-orange-A700-left-5 color-white>
+            <h1 class="strip" text-blue>
+              Background</h1>
+            <footer>
+              Adding color to element's background</footer>
+          </blockquote>
+          <section class="panel">
+            <article class="panel-body">
+              <p>You can add the background color to any element doing any of the following</p>
+              <p>Lets say we were going to use two colors, blue, and orange-700</p>
+            </article>
+          </section>
+          <section class="panel list-examples">
+            <dl>
+              <dt>
+                Declare the full color as an attribute</dt>
+              <dd>
+                &lt;div <strong text-blue>color-blue</strong>&gt;&lt;/div&gt;</dd>
+              <dd>
+                &lt;div <strong text-orange-700>color-orange-700</strong>&gt;&lt;/div&gt;</dd>
+            </dl>
+          </section>
+          <section class="panel list-examples">
+            <dl>
+              <dt>
+                Declare the color name within the color attribute</dt>
+              <dd>
+                  &lt;div <strong text-blue>color="blue"</strong>&gt;&lt;/div&gt;</dd>
+              <dd>
+                  &lt;div <strong text-orange-700>color="orange-700"</strong>&gt;&lt;/div&gt;</dd>
+            </dl>
+          </section>
+          <section class="panel list-examples">
+            <dl>
+              <dt>
+                Declare the color name using the CSS class</dt>
+              <dd>
+                &lt;div <strong text-blue>class="color-blue"</strong>&gt;&lt;/div&gt;</dd>
+              <dd>
+                &lt;div <strong text-orange-700>class="color-orange-700"</strong>&gt;&lt;/div&gt;</dd>
+            </dl>
+          </section>
+        </div>
+        <div class="col-md-6">
+          <section class="panel">
+            <div class="panel-body">
+                  <!-- // Primary Color Test -->
+              <artice
+                  class="col-md-3 tester"
+                  color-red
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color='pink'
+                  ></artice>
+              <artice
+                  class="col-md-3 tester color-purple"
+                  ></artice>
+
+              <!-- // Secondary Color Test -->
+              <artice
+                  class="col-md-3 tester"
+                  color-deeppurple
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color='indigo'
+                  ></artice>
+              <artice
+                  class="col-md-3 tester color-blue"
+                  ></artice>
+
+              <artice
+                  class="col-md-3 tester"
+                  color-lightblue
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color='cyan'
+                  ></artice>
+              <artice
+                  class="col-md-3 tester color-teal"
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color-green
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color='lightgreen'
+                  ></artice>
+              <artice
+                  class="col-md-3 tester color-lime"
+                  ></artice>
+
+              <artice
+                  class="col-md-3 tester"
+                  color-yellow
+                  ></artice>
+              <artice
+                  class="col-md-3 tester"
+                  color='amber'
+                  ></artice>
+              <artice
+                  class="col-md-3 tester color-orange"
+                  ></artice>
+
+              <artice
+                  class="col-md-3 tester"
+                  color-deeporange
+                  ></artice>
+              <artice
+                  class="col-md-6 tester"
+                  color='brown'
+                  ></artice>
+              <artice
+                  class="col-md-6 tester color-grey"
+                  ></artice>
+            </div>
+          </section>
+        </div>
+      </section>
+    <!-- END BACKGROUNDS -->
+    <!-- BUTTONS -->
+      <section class="row block-section">
+      <div class="col-md-6">
+        <blockquote class="section-header" border-orange-A700-left-5 color-white>
+          <h1 class="strip" text-blue>
+            Buttons</h1>
+          <footer>
+            Adding color to button backgrounds</footer>
+        </blockquote>
+        <section class="panel panel-default">
+          <article class="panel-body">
+
+          </article>
+        </section>
+      </div>
+      <div class="col-md-6">
+        <!-- // Primary btn Test -->
+        <div class="panel">
+          <div class="panel-body">
+            <button
+              class="btn"
+              color-deeppurple
+              >Button</button>
+            <button
+              class="btn"
+              color="lightblue"
+              >Button</button>
+            <button
+              class="btn btn-cyan"
+              >Button</button>
+            <button
+              class="btn"
+              color-deeppurple-A200
+              >Button</button>
+            <button
+              class="btn"
+              color="lightblue-A200"
+              >Button</button>
+            <button
+              class="btn btn-cyan-A200"
+              >Button</button>
+          </div>
+        </div>
+      </div>
+      </section>
+    <!-- END BUTTONS -->
+    <!-- TYPOGRAPHY -->
+      <section class="row block-section">
+        <div class="col-md-6">
+        <blockquote class="section-header" border-orange-A700-left-5 color-white>
+          <h1 class="strip" text-blue>
+            Typography</h1>
+          <footer>
+            Adding color to text elements</footer>
+        </blockquote>
+        <section class="panel panel-default">
+          <article class="panel-body">
+
+          </article>
+        </section>
+        </div>
+        <div class="col-md-6">
+        <!-- // Primary btn Test -->
+        <div class="panel">
+          <div class="panel-body">
+            <h1
+              text-deeppurple
+              >h1: Deep Purple</h1>
+            <h2
+              text-color="lightblue"
+              >h2: Light Blue</h2>
+            <h3
+              class="text-green"
+              >h3: Green</h3>
+            <h4
+              text-orange
+              >h4: Orange</h4>
+            <h5
+              text-color="pink"
+              >h5: Pink</h5>
+            <h6
+              class="text-cyan"
+              >h6: Cyan</h6>
+          </div>
+        </div>
+        </div>
+      </section>
+    <!-- END TYPOGRAPHY -->
+  </section>
+
+  <!-- build:js -->
+  <!-- bower:js -->
+  <script src="../lib/jquery/dist/jquery.js"></script>
+  <script src="../lib/bootstrap/dist/js/bootstrap.js"></script>
+  <!-- endbower -->
+  <!-- endbuild -->
+
+  <!-- scripts:js -->
+  <!-- endinject -->
+
+  <!-- demo:js -->
+  <!-- endinject -->
+</body>
+</html>
