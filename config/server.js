@@ -10,7 +10,7 @@ var app = express()
 app.use( reloader() )
 app.use( express.static( path.join( './', 'src' ) ) )
 app.use( express.static( path.join( './', 'dist' ) ) )
-app.use( express.static( path.join( './', 'demo' ) ) )
+app.use( express.static( './' ) )
 
 app.listen( 9000, '127.0.0.1', function(){
   console.log('Server Listening on 9000')

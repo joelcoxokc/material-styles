@@ -29,12 +29,12 @@ gulp.task('css', ['stylus'], function() {
 gulp.task('inject:bower', function () {
 
   var bowerFiles = wiredep.stream;
-  return gulp.src( './demo/index.html' )
+  return gulp.src( './index.html' )
     .pipe( bowerFiles({
       directory: './src/lib',
       ignorePath: '/src'
     }))
-    .pipe( gulp.dest( './demo' ) );
+    .pipe( gulp.dest( './' ) );
 });
 
 
@@ -59,14 +59,14 @@ gulp.task('inject', ['inject:bower'], function(){
       ignorePath: 'dist',
       name: 'styles'
     }))
-    .pipe( gulp.dest( paths.demo.root ))
+    .pipe( gulp.dest( './' ))
     .pipe( $.notify({message: 'Injection Finished and worked'}));
 
 });
 
 gulp.task('watch', function() {
   $.livereload.listen()
-  gulp.watch('./demo/**/*.html', $.livereload.changed);
+  gulp.watch('./**/*.html', $.livereload.changed);
   gulp.watch('./demo/**/*.js', $.livereload.changed);
   gulp.watch('./demo/styles/*.css', $.livereload.changed);
   // gulp.watch( paths.src.scripts, ['jshint'] );
@@ -88,7 +88,7 @@ gulp.task('serve',['demo', 'watch'], function(){
   server.run();
 });
 gulp.task('server', ['serve'], function(){
-  return gulp.src( './demo/index.html' )
+  return gulp.src( './index.html' )
     .pipe( open("", {url: 'localhost:9000'} ));
 });
 

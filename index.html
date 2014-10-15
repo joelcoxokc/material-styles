@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Oxford Demo</title>
+  <!-- build:css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+  <!-- endbuild -->
+ <link rel="import" href="http://www.polymer-project.org/components/paper-ripple/paper-ripple.html">
+  <!-- <link rel="stylesheet" href="bootstrap-material-design/material-wfont.css"> -->
+  <!-- <link rel="stylesheet" href="bootstrap-material-design/material.css"> -->
+
+  <link rel="stylesheet" href="demo/styles/bootstrap.custom.css" />
+  <link rel="stylesheet" href="demo/styles/demo.css">
+
+
+  <!-- styles:css -->
+  <link rel="stylesheet" href="/material-colors.css">
+  <!-- endinject -->
+
+
+</head>
+<body data-ng-controller="ColorsCtrl">
+  <section class="container">
+
+
+      <section class="row">
+        <div class="" data-ng-include="'demo/views/backgrounds-info.html'"></div>
+        <div class="" data-ng-include="'demo/views/buttons-info.html'"></div>
+        <div class="" data-ng-include="'demo/views/typography-info.html'"></div>
+      </section>
+      <section class="row">
+        <div class="" data-ng-include="'demo/views/backgrounds.html'"></div>
+        <div class="" data-ng-include="'demo/views/buttons.html'"></div>
+        <div class="" data-ng-include="'demo/views/typography.html'"></div>
+      </section>
+
+      <section class="row block-section" data-ng-include="'demo/views/buttons.html'"></section>
+
+      <section class="row block-section" data-ng-include="'demo/views/typography.html'"></section>
+
+  </section>
+
+  <!-- build:js -->
+  <!-- bower:js -->
+  <script src="src/lib/jquery/dist/jquery.js"></script>
+  <script src="src/lib/bootstrap/dist/js/bootstrap.js"></script>
+  <script src="src/lib/angular/angular.js"></script>
+  <script src="src/lib/lodash/dist/lodash.compat.js"></script>
+  <script src="src/lib/ng-Fx/dist/ngFx.js"></script>
+  <!-- endbower -->
+  <!-- endbuild -->
+
+  <!-- scripts:js -->
+  <!-- endinject -->
+
+  <script type="text/javascript" src="demo/app/app.js"></script>
+  <script type="text/javascript" src="demo/app/Colors.js"></script>
+</body>
+</html>

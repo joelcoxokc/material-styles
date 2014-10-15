@@ -5,7 +5,7 @@
     "joelcoxokc <joelcox@hisimagination.com>"
   ],
   "description": "Css classes and attributes to color your elements with all colors form google material design color palette.",
-  "main": "dist/material-styles.min.css",
+  "main": "dist/material-styles.css",
   "keywords": [
     "material",
     "material-design",
