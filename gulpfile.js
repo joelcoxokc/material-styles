@@ -10,7 +10,7 @@ var gulp    = require('gulp'),
 gulp.task('stylus', function() {
   return gulp.src('./src/styles/main.styl')
     .pipe($.stylus())
-    .pipe($.rename('material-colors.css'))
+    .pipe($.rename('material-styles.css'))
     .pipe(gulp.dest('./dist'))
     .pipe(gulp.dest('./'))
     .pipe($.notify({message: 'Stylus Compiled'}));
@@ -30,10 +30,11 @@ gulp.task('css', ['stylus'], function() {
 gulp.task('inject:bower', function () {
 
   var bowerFiles = wiredep.stream;
-  return gulp.src( './index.html' )
+  return gulp.src( 'index.html' )
     .pipe( bowerFiles({
       directory: './src/lib',
-      ignorePath: '/src'
+      devDependencies: true,
+      relative: true
     }))
     .pipe( gulp.dest( './' ) );
 });

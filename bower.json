@@ -1,6 +1,6 @@
 {
   "name": "material-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "joelcoxokc <joelcox@hisimagination.com>"
   ],
@@ -24,8 +24,6 @@
     "tests",
     "src/lib"
   ],
-  "dependencies": {
-  },
   "overrides": {
     "bootstrap": {
       "main": [
