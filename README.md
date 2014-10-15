@@ -5,6 +5,9 @@ Material-Styles
 
 ### Inspired by [Google Material Design](http://www.google.com/design/spec/style/color.html).
 
+#### [DEMO](http://material-styles.azurewebsites.net).
+
+
 ###Installation
 `bower install --save material-styles`
 
