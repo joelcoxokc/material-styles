@@ -6,10 +6,10 @@
       .service('Color', Color);
 
     /* @inject */
-    function Color($http, $q){
+    function Color($http, $q, Data){
       var that = this;
       this.json      = 'colors.json';
-      this.promised  = $http.get(this.json);
+      this.promised  = Data.get();
       this.colors    = [];
       this.primaries = [];
 

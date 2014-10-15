@@ -3,6 +3,7 @@
     angular
       .module('app', [
         'ngFx',
+        'data',
         'color'])
       .controller('ColorsCtrl', ColorsCtrl);
 
