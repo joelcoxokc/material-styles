@@ -8,7 +8,7 @@
     /* @inject */
     function Color($http, $q){
       var that = this;
-      this.json      = 'demo/colors.json';
+      this.json      = 'colors.json';
       this.promised  = $http.get(this.json);
       this.colors    = [];
       this.primaries = [];
