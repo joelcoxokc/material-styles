@@ -2,7 +2,7 @@
   "name": "material-color",
   "version": "1.0.0",
   "description": "Css classes and attributes to color your elements with all colors form google material design color palette.",
-  "main": "index.js",
+  "main": "config/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
