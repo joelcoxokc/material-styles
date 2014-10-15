@@ -65,7 +65,9 @@ gulp.task('inject', ['inject:bower'], function(){
 });
 
 gulp.task('watch', function() {
-  gulp.watch('./demo/index.html', $.livereload.changed);
+  $.livereload.listen()
+  gulp.watch('./demo/**/*.html', $.livereload.changed);
+  gulp.watch('./demo/**/*.js', $.livereload.changed);
   gulp.watch('./demo/styles/*.css', $.livereload.changed);
   // gulp.watch( paths.src.scripts, ['jshint'] );
   gulp.watch( './src/styles/**/*.styl', ['css', $.livereload.changed]);

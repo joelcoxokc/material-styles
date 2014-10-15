@@ -1,0 +1,25 @@
+<div class="col-md-4">
+  <section class="panel">
+    <div class="panel-body">
+          <!-- // Primary Color Test -->
+      <artice
+          data-ng-repeat="color in colors track by color.id | orderBy:id"
+          data-ng-hide="showBg"
+          data-ng-class="{ 'text-grey': $last}"
+          class="col-md-4 tester text-center"
+          color="{{color.name}}"
+          data-ng-click="selectBG(color)"
+          text-white
+          ><h5>{{color.name}}</h5></artice>
+      <artice
+          data-ng-repeat="color in selectedBG.children"
+          data-ng-show="showBg"
+          data-ng-class="{ 'text-grey': $first}"
+          class="col-md-12 child-block text-center fx-fade-left-big"
+          color="{{color}}"
+          data-ng-click="resetBG()"
+          text-white
+          ><h5>{{color}}</h5></artice>
+    </div>
+  </section>
+</div>

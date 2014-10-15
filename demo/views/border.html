@@ -1,0 +1,58 @@
+<div class="col-md-6">
+  <blockquote class="section-header" border-orange-A700-left-5 color-white>
+    <h1 class="strip" text-blue>
+      Border Colors</h1>
+    <footer>
+      Adding color to element's border</footer>
+  </blockquote>
+  <section class="panel">
+    <article class="panel-body">
+      <p>You can add the border color to any element doing any of the following</p>
+      <p>Lets say we were going to use two colors, purple, and lime-A400</p>
+    </article>
+  </section>
+  <section class="panel list-examples">
+    <dl>
+      <dt>
+        Declare the full color as an attribute</dt>
+      <dd>
+        &lt;div <strong text-purple>color-purple</strong>&gt;&lt;/div&gt;</dd>
+      <dd>
+        &lt;div <strong text-lime-A400>color-lime-A400</strong>&gt;&lt;/div&gt;</dd>
+    </dl>
+  </section>
+  <section class="panel list-examples">
+    <dl>
+      <dt>
+        Declare the color name within the color attribute</dt>
+      <dd>
+          &lt;div <strong text-purple>color="purple"</strong>&gt;&lt;/div&gt;</dd>
+      <dd>
+          &lt;div <strong text-lime-A400>color="lime-A400"</strong>&gt;&lt;/div&gt;</dd>
+    </dl>
+  </section>
+  <section class="panel list-examples">
+    <dl>
+      <dt>
+        Declare the color name using the CSS class</dt>
+      <dd>
+        &lt;div <strong text-purple>class="color-purple"</strong>&gt;&lt;/div&gt;</dd>
+      <dd>
+        &lt;div <strong text-lime-A400>class="color-lime-A400"</strong>&gt;&lt;/div&gt;</dd>
+    </dl>
+  </section>
+</div>
+<div class="col-md-6">
+  <section class="panel">
+    <div class="panel-body">
+          <!-- // Primary Color Test -->
+      <artice
+          data-ng-repeat="color in colors track by color.id | orderBy:id"
+          data-ng-class="{ 'text-grey': $last }"
+          class="col-md-3 tester text-center"
+          text-white
+          color="{{color.name}}"
+          ><h5>{{color.name}}</h5></artice>
+    </div>
+  </section>
+</div>

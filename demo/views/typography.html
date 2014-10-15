@@ -1,0 +1,51 @@
+<div class="col-md-4">
+  <section class="panel">
+    <div class="panel-body">
+          <!-- // Primary Color Test -->
+      <artice ng-hide="selected"
+          data-ng-repeat="color in colors track by color.id | orderBy:id"
+          class="col-md-12">
+        <h1
+          text-color="{{color.name}}"
+          >h1: {{color.name}}</h1>
+        <h2
+          text-color="{{color.name}}-200"
+          >h2: {{color.name}}-200</h2>
+        <h3
+          text-color="{{color.name}}-300"
+          >h3: {{color.name}}-300</h3>
+        <h4
+          text-color="{{color.name}}-400"
+          >h4: {{color.name}}-400</h4>
+        <h5
+          text-color="{{color.name}}-500"
+          >h5: {{color.name}}-500</h5>
+        <h6
+          text-color="{{color.name}}-600"
+          >h6: {{color.name}}-600</h6>
+      </artice>
+      <artice ng-show="selected"
+          data-ng-repeat="color in selectedColor"
+          class="col-md-12">
+        <h1
+          text-color="{{selectedName}}"
+          >h1: {{selectedName}}</h1>
+        <h2
+          text-color="{{selectedName}}-200"
+          >h2: {{selectedName}}-200</h2>
+        <h3
+          text-color="{{selectedName}}-300"
+          >h3: {{selectedName}}-300</h3>
+        <h4
+          text-color="{{selectedName}}-400"
+          >h4: {{selectedName}}-400</h4>
+        <h5
+          text-color="{{selectedName}}-500"
+          >h5: {{selectedName}}-500</h5>
+        <h6
+          text-color="{{selectedName}}-600"
+          >h6: {{selectedName}}-600</h6>
+      </artice>
+    </div>
+  </section>
+</div>

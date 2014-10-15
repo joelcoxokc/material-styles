@@ -1,0 +1,22 @@
+<div class="col-md-4">
+  <!-- // Primary btn Test -->
+  <div class="panel">
+    <div class="panel-body demo">
+      <button
+        class="btn btn-block"
+        data-ng-repeat="color in colors track by color.id | orderBy:id"
+        data-ng-class="{ 'text-grey': $last }"
+        data-ng-hide="showBtn"
+        data-ng-click="selectBtn(color)"
+        btn-color="{{color.name}}"
+        >{{color.name}}</button>
+      <button
+        class="btn btn-block"
+        data-ng-repeat="color in selectedBtn.children"
+        data-ng-show="showBtn"
+        data-ng-click="resetBtn()"
+        btn-color="{{color}}"
+        >{{color}} </button>
+    </div>
+  </div>
+</div>

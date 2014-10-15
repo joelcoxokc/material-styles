@@ -6,8 +6,20 @@ body {
 
 .tester {
   height: 100px;
+  cursor: pointer;
 }
 
+.primary-block {
+  height: 100px;
+}
+.child-block {
+  height: 50px;
+}
+
+/*.demo .btn {
+  width:50%;
+}
+*/
 .block-section {
   margin-bottom: 20px;
 }

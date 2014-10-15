@@ -1,14 +1,11 @@
 {
-  "name": "material-color",
+  "name": "material-styles",
   "version": "1.0.0",
   "authors": [
     "joelcoxokc <joelcox@hisimagination.com>"
   ],
   "description": "Css classes and attributes to color your elements with all colors form google material design color palette.",
-  "main": "dist/material-color.min.css",
-  "moduleType": [
-    "node"
-  ],
+  "main": "dist/material-styles.min.css",
   "keywords": [
     "material",
     "material-design",
@@ -24,16 +21,20 @@
     "bower_components",
     "app/bower_components",
     "test",
-    "tests"
+    "tests",
+    "src/lib"
   ],
   "dependencies": {
-    "bootstrap": "~3.2.0"
+    "bootstrap": "~3.2.0",
+    "angular": "~1.3.0",
+    "lodash": "~2.4.1",
+    "ng-Fx": "~1.0.5"
   },
   "overrides": {
     "bootstrap": {
-        "main": [
-          "./dist/js/bootstrap.js"
-        ]
+      "main": [
+        "./dist/js/bootstrap.js"
+      ]
     }
   }
 }
