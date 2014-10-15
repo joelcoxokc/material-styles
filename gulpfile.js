@@ -12,6 +12,7 @@ gulp.task('stylus', function() {
     .pipe($.stylus())
     .pipe($.rename('material-colors.css'))
     .pipe(gulp.dest('./dist'))
+    .pipe(gulp.dest('./'))
     .pipe($.notify({message: 'Stylus Compiled'}));
 });
 
@@ -54,9 +55,7 @@ gulp.task('inject', ['inject:bower'], function(){
   return target
     // inject '/oxford.css' and './main.css' into demo/index.html
     .pipe( $.inject( styles, {
-      addRootSlash: true,
-      relative:false,
-      ignorePath: 'dist',
+      relative: true,
       name: 'styles'
     }))
     .pipe( gulp.dest( './' ))
