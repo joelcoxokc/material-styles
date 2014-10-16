@@ -18,7 +18,6 @@ a.btn-default,
 .btn-default {
   background-color: #424242;
   background: #424242;
-  color: #fff;
 }
 button[btn-default]:focus,
 button[btn-color~=default]:focus,
@@ -211,7 +210,6 @@ a.btn-white,
 .btn-white {
   background-color: #fff;
   background: #fff;
-  color: #fff;
 }
 button[btn-white]:focus,
 button[btn-color~=white]:focus,
@@ -404,7 +402,6 @@ a.btn-red,
 .btn-red {
   background-color: #e51c23;
   background: #e51c23;
-  color: #fff;
 }
 button[btn-red]:focus,
 button[btn-color~=red]:focus,
@@ -597,7 +594,6 @@ a.btn-red-50,
 .btn-red-50 {
   background-color: #fde0dc;
   background: #fde0dc;
-  color: color-purpe-700;
 }
 button[btn-red-50]:focus,
 button[btn-color~=red-50]:focus,
@@ -790,7 +786,6 @@ a.btn-red-100,
 .btn-red-100 {
   background-color: #f9bdbb;
   background: #f9bdbb;
-  color: color-purpe-700;
 }
 button[btn-red-100]:focus,
 button[btn-color~=red-100]:focus,
@@ -983,7 +978,6 @@ a.btn-red-200,
 .btn-red-200 {
   background-color: #f69988;
   background: #f69988;
-  color: color-purpe-700;
 }
 button[btn-red-200]:focus,
 button[btn-color~=red-200]:focus,
@@ -1176,7 +1170,6 @@ a.btn-red-300,
 .btn-red-300 {
   background-color: #f36c60;
   background: #f36c60;
-  color: color-purpe-700;
 }
 button[btn-red-300]:focus,
 button[btn-color~=red-300]:focus,
@@ -1369,7 +1362,6 @@ a.btn-red-400,
 .btn-red-400 {
   background-color: #e84e40;
   background: #e84e40;
-  color: #fff;
 }
 button[btn-red-400]:focus,
 button[btn-color~=red-400]:focus,
@@ -1562,7 +1554,6 @@ a.btn-red-500,
 .btn-red-500 {
   background-color: #e51c23;
   background: #e51c23;
-  color: #fff;
 }
 button[btn-red-500]:focus,
 button[btn-color~=red-500]:focus,
@@ -1755,7 +1746,6 @@ a.btn-red-600,
 .btn-red-600 {
   background-color: #dd191d;
   background: #dd191d;
-  color: #fff;
 }
 button[btn-red-600]:focus,
 button[btn-color~=red-600]:focus,
@@ -1948,7 +1938,6 @@ a.btn-red-700,
 .btn-red-700 {
   background-color: #d01716;
   background: #d01716;
-  color: #fff;
 }
 button[btn-red-700]:focus,
 button[btn-color~=red-700]:focus,
@@ -2141,7 +2130,6 @@ a.btn-red-800,
 .btn-red-800 {
   background-color: #c41411;
   background: #c41411;
-  color: #fff;
 }
 button[btn-red-800]:focus,
 button[btn-color~=red-800]:focus,
@@ -2334,7 +2322,6 @@ a.btn-red-900,
 .btn-red-900 {
   background-color: #b0120a;
   background: #b0120a;
-  color: #fff;
 }
 button[btn-red-900]:focus,
 button[btn-color~=red-900]:focus,
@@ -2527,7 +2514,6 @@ a.btn-red-A100,
 .btn-red-A100 {
   background-color: #ff7997;
   background: #ff7997;
-  color: color-purpe-700;
 }
 button[btn-red-A100]:focus,
 button[btn-color~=red-A100]:focus,
@@ -2720,7 +2706,6 @@ a.btn-red-A200,
 .btn-red-A200 {
   background-color: #ff5177;
   background: #ff5177;
-  color: color-purpe-700;
 }
 button[btn-red-A200]:focus,
 button[btn-color~=red-A200]:focus,
@@ -2913,7 +2898,6 @@ a.btn-red-A400,
 .btn-red-A400 {
   background-color: #ff2d6f;
   background: #ff2d6f;
-  color: #fff;
 }
 button[btn-red-A400]:focus,
 button[btn-color~=red-A400]:focus,
@@ -3106,7 +3090,6 @@ a.btn-red-A700,
 .btn-red-A700 {
   background-color: #e00032;
   background: #e00032;
-  color: #fff;
 }
 button[btn-red-A700]:focus,
 button[btn-color~=red-A700]:focus,
@@ -3299,7 +3282,6 @@ a.btn-pink,
 .btn-pink {
   background-color: #e91e63;
   background: #e91e63;
-  color: #fff;
 }
 button[btn-pink]:focus,
 button[btn-color~=pink]:focus,
@@ -3492,7 +3474,6 @@ a.btn-pink-50,
 .btn-pink-50 {
   background-color: #fce4ec;
   background: #fce4ec;
-  color: color-purpe-700;
 }
 button[btn-pink-50]:focus,
 button[btn-color~=pink-50]:focus,
@@ -3685,7 +3666,6 @@ a.btn-pink-100,
 .btn-pink-100 {
   background-color: #f8bbd0;
   background: #f8bbd0;
-  color: color-purpe-700;
 }
 button[btn-pink-100]:focus,
 button[btn-color~=pink-100]:focus,
@@ -3878,7 +3858,6 @@ a.btn-pink-200,
 .btn-pink-200 {
   background-color: #f48fb1;
   background: #f48fb1;
-  color: color-purpe-700;
 }
 button[btn-pink-200]:focus,
 button[btn-color~=pink-200]:focus,
@@ -4071,7 +4050,6 @@ a.btn-pink-300,
 .btn-pink-300 {
   background-color: #f06292;
   background: #f06292;
-  color: color-purpe-700;
 }
 button[btn-pink-300]:focus,
 button[btn-color~=pink-300]:focus,
@@ -4264,7 +4242,6 @@ a.btn-pink-400,
 .btn-pink-400 {
   background-color: #ec407a;
   background: #ec407a;
-  color: #fff;
 }
 button[btn-pink-400]:focus,
 button[btn-color~=pink-400]:focus,
@@ -4457,7 +4434,6 @@ a.btn-pink-500,
 .btn-pink-500 {
   background-color: #e91e63;
   background: #e91e63;
-  color: #fff;
 }
 button[btn-pink-500]:focus,
 button[btn-color~=pink-500]:focus,
@@ -4650,7 +4626,6 @@ a.btn-pink-600,
 .btn-pink-600 {
   background-color: #d81b60;
   background: #d81b60;
-  color: #fff;
 }
 button[btn-pink-600]:focus,
 button[btn-color~=pink-600]:focus,
@@ -4843,7 +4818,6 @@ a.btn-pink-700,
 .btn-pink-700 {
   background-color: #c2185b;
   background: #c2185b;
-  color: #fff;
 }
 button[btn-pink-700]:focus,
 button[btn-color~=pink-700]:focus,
@@ -5036,7 +5010,6 @@ a.btn-pink-800,
 .btn-pink-800 {
   background-color: #ad1457;
   background: #ad1457;
-  color: #fff;
 }
 button[btn-pink-800]:focus,
 button[btn-color~=pink-800]:focus,
@@ -5229,7 +5202,6 @@ a.btn-pink-900,
 .btn-pink-900 {
   background-color: #880e4f;
   background: #880e4f;
-  color: #fff;
 }
 button[btn-pink-900]:focus,
 button[btn-color~=pink-900]:focus,
@@ -5422,7 +5394,6 @@ a.btn-pink-A100,
 .btn-pink-A100 {
   background-color: #ff80ab;
   background: #ff80ab;
-  color: color-purpe-700;
 }
 button[btn-pink-A100]:focus,
 button[btn-color~=pink-A100]:focus,
@@ -5615,7 +5586,6 @@ a.btn-pink-A200,
 .btn-pink-A200 {
   background-color: #ff4081;
   background: #ff4081;
-  color: color-purpe-700;
 }
 button[btn-pink-A200]:focus,
 button[btn-color~=pink-A200]:focus,
@@ -5808,7 +5778,6 @@ a.btn-pink-A400,
 .btn-pink-A400 {
   background-color: #f50057;
   background: #f50057;
-  color: #fff;
 }
 button[btn-pink-A400]:focus,
 button[btn-color~=pink-A400]:focus,
@@ -6001,7 +5970,6 @@ a.btn-pink-A700,
 .btn-pink-A700 {
   background-color: #c51162;
   background: #c51162;
-  color: #fff;
 }
 button[btn-pink-A700]:focus,
 button[btn-color~=pink-A700]:focus,
@@ -6194,7 +6162,6 @@ a.btn-purple,
 .btn-purple {
   background-color: #9c27b0;
   background: #9c27b0;
-  color: #fff;
 }
 button[btn-purple]:focus,
 button[btn-color~=purple]:focus,
@@ -6387,7 +6354,6 @@ a.btn-purple-50,
 .btn-purple-50 {
   background-color: #f3e5f5;
   background: #f3e5f5;
-  color: color-purpe-700;
 }
 button[btn-purple-50]:focus,
 button[btn-color~=purple-50]:focus,
@@ -6580,7 +6546,6 @@ a.btn-purple-100,
 .btn-purple-100 {
   background-color: #e1bee7;
   background: #e1bee7;
-  color: color-purpe-700;
 }
 button[btn-purple-100]:focus,
 button[btn-color~=purple-100]:focus,
@@ -6773,7 +6738,6 @@ a.btn-purple-200,
 .btn-purple-200 {
   background-color: #ce93d8;
   background: #ce93d8;
-  color: color-purpe-700;
 }
 button[btn-purple-200]:focus,
 button[btn-color~=purple-200]:focus,
@@ -6966,7 +6930,6 @@ a.btn-purple-300,
 .btn-purple-300 {
   background-color: #ba68c8;
   background: #ba68c8;
-  color: #fff;
 }
 button[btn-purple-300]:focus,
 button[btn-color~=purple-300]:focus,
@@ -7159,7 +7122,6 @@ a.btn-purple-400,
 .btn-purple-400 {
   background-color: #ab47bc;
   background: #ab47bc;
-  color: #fff;
 }
 button[btn-purple-400]:focus,
 button[btn-color~=purple-400]:focus,
@@ -7352,7 +7314,6 @@ a.btn-purple-500,
 .btn-purple-500 {
   background-color: #9c27b0;
   background: #9c27b0;
-  color: #fff;
 }
 button[btn-purple-500]:focus,
 button[btn-color~=purple-500]:focus,
@@ -7545,7 +7506,6 @@ a.btn-purple-600,
 .btn-purple-600 {
   background-color: #8e24aa;
   background: #8e24aa;
-  color: #fff;
 }
 button[btn-purple-600]:focus,
 button[btn-color~=purple-600]:focus,
@@ -7738,7 +7698,6 @@ a.btn-purple-700,
 .btn-purple-700 {
   background-color: #7b1fa2;
   background: #7b1fa2;
-  color: #fff;
 }
 button[btn-purple-700]:focus,
 button[btn-color~=purple-700]:focus,
@@ -7931,7 +7890,6 @@ a.btn-purple-800,
 .btn-purple-800 {
   background-color: #6a1b9a;
   background: #6a1b9a;
-  color: #fff;
 }
 button[btn-purple-800]:focus,
 button[btn-color~=purple-800]:focus,
@@ -8124,7 +8082,6 @@ a.btn-purple-900,
 .btn-purple-900 {
   background-color: #4a148c;
   background: #4a148c;
-  color: #fff;
 }
 button[btn-purple-900]:focus,
 button[btn-color~=purple-900]:focus,
@@ -8317,7 +8274,6 @@ a.btn-purple-A100,
 .btn-purple-A100 {
   background-color: #ea80fc;
   background: #ea80fc;
-  color: color-purpe-700;
 }
 button[btn-purple-A100]:focus,
 button[btn-color~=purple-A100]:focus,
@@ -8510,7 +8466,6 @@ a.btn-purple-A200,
 .btn-purple-A200 {
   background-color: #e040fb;
   background: #e040fb;
-  color: color-purpe-700;
 }
 button[btn-purple-A200]:focus,
 button[btn-color~=purple-A200]:focus,
@@ -8703,7 +8658,6 @@ a.btn-purple-A400,
 .btn-purple-A400 {
   background-color: #d500f9;
   background: #d500f9;
-  color: #fff;
 }
 button[btn-purple-A400]:focus,
 button[btn-color~=purple-A400]:focus,
@@ -8896,7 +8850,6 @@ a.btn-purple-A700,
 .btn-purple-A700 {
   background-color: #a0f;
   background: #a0f;
-  color: #fff;
 }
 button[btn-purple-A700]:focus,
 button[btn-color~=purple-A700]:focus,
@@ -9089,7 +9042,6 @@ a.btn-deep-purple,
 .btn-deep-purple {
   background-color: #673ab7;
   background: #673ab7;
-  color: #fff;
 }
 button[btn-deep-purple]:focus,
 button[btn-color~=deep-purple]:focus,
@@ -9282,7 +9234,6 @@ a.btn-deep-purple-50,
 .btn-deep-purple-50 {
   background-color: #ede7f6;
   background: #ede7f6;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-50]:focus,
 button[btn-color~=deep-purple-50]:focus,
@@ -9475,7 +9426,6 @@ a.btn-deep-purple-100,
 .btn-deep-purple-100 {
   background-color: #ede7f6;
   background: #ede7f6;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-100]:focus,
 button[btn-color~=deep-purple-100]:focus,
@@ -9668,7 +9618,6 @@ a.btn-deep-purple-200,
 .btn-deep-purple-200 {
   background-color: #b39ddb;
   background: #b39ddb;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-200]:focus,
 button[btn-color~=deep-purple-200]:focus,
@@ -9861,7 +9810,6 @@ a.btn-deep-purple-300,
 .btn-deep-purple-300 {
   background-color: #9575cd;
   background: #9575cd;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-300]:focus,
 button[btn-color~=deep-purple-300]:focus,
@@ -10054,7 +10002,6 @@ a.btn-deep-purple-400,
 .btn-deep-purple-400 {
   background-color: #7e57c2;
   background: #7e57c2;
-  color: #fff;
 }
 button[btn-deep-purple-400]:focus,
 button[btn-color~=deep-purple-400]:focus,
@@ -10247,7 +10194,6 @@ a.btn-deep-purple-500,
 .btn-deep-purple-500 {
   background-color: #673ab7;
   background: #673ab7;
-  color: #fff;
 }
 button[btn-deep-purple-500]:focus,
 button[btn-color~=deep-purple-500]:focus,
@@ -10440,7 +10386,6 @@ a.btn-deep-purple-600,
 .btn-deep-purple-600 {
   background-color: #5e35b1;
   background: #5e35b1;
-  color: #fff;
 }
 button[btn-deep-purple-600]:focus,
 button[btn-color~=deep-purple-600]:focus,
@@ -10633,7 +10578,6 @@ a.btn-deep-purple-700,
 .btn-deep-purple-700 {
   background-color: #512da8;
   background: #512da8;
-  color: #fff;
 }
 button[btn-deep-purple-700]:focus,
 button[btn-color~=deep-purple-700]:focus,
@@ -10826,7 +10770,6 @@ a.btn-deep-purple-800,
 .btn-deep-purple-800 {
   background-color: #4527a0;
   background: #4527a0;
-  color: #fff;
 }
 button[btn-deep-purple-800]:focus,
 button[btn-color~=deep-purple-800]:focus,
@@ -11019,7 +10962,6 @@ a.btn-deep-purple-900,
 .btn-deep-purple-900 {
   background-color: #311b92;
   background: #311b92;
-  color: #fff;
 }
 button[btn-deep-purple-900]:focus,
 button[btn-color~=deep-purple-900]:focus,
@@ -11212,7 +11154,6 @@ a.btn-deep-purple-A100,
 .btn-deep-purple-A100 {
   background-color: #b388ff;
   background: #b388ff;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-A100]:focus,
 button[btn-color~=deep-purple-A100]:focus,
@@ -11405,7 +11346,6 @@ a.btn-deep-purple-A200,
 .btn-deep-purple-A200 {
   background-color: #7c4dff;
   background: #7c4dff;
-  color: color-purpe-700;
 }
 button[btn-deep-purple-A200]:focus,
 button[btn-color~=deep-purple-A200]:focus,
@@ -11598,7 +11538,6 @@ a.btn-deep-purple-A400,
 .btn-deep-purple-A400 {
   background-color: #651fff;
   background: #651fff;
-  color: #fff;
 }
 button[btn-deep-purple-A400]:focus,
 button[btn-color~=deep-purple-A400]:focus,
@@ -11791,7 +11730,6 @@ a.btn-deep-purple-A700,
 .btn-deep-purple-A700 {
   background-color: #6200ea;
   background: #6200ea;
-  color: #fff;
 }
 button[btn-deep-purple-A700]:focus,
 button[btn-color~=deep-purple-A700]:focus,
@@ -11984,7 +11922,6 @@ a.btn-indigo,
 .btn-indigo {
   background-color: #3f51b5;
   background: #3f51b5;
-  color: #fff;
 }
 button[btn-indigo]:focus,
 button[btn-color~=indigo]:focus,
@@ -12177,7 +12114,6 @@ a.btn-indigo-50,
 .btn-indigo-50 {
   background-color: #e8eaf6;
   background: #e8eaf6;
-  color: color-purpe-700;
 }
 button[btn-indigo-50]:focus,
 button[btn-color~=indigo-50]:focus,
@@ -12370,7 +12306,6 @@ a.btn-indigo-100,
 .btn-indigo-100 {
   background-color: #c5cae9;
   background: #c5cae9;
-  color: color-purpe-700;
 }
 button[btn-indigo-100]:focus,
 button[btn-color~=indigo-100]:focus,
@@ -12563,7 +12498,6 @@ a.btn-indigo-200,
 .btn-indigo-200 {
   background-color: #9fa8da;
   background: #9fa8da;
-  color: color-purpe-700;
 }
 button[btn-indigo-200]:focus,
 button[btn-color~=indigo-200]:focus,
@@ -12756,7 +12690,6 @@ a.btn-indigo-300,
 .btn-indigo-300 {
   background-color: #7986cb;
   background: #7986cb;
-  color: color-purpe-700;
 }
 button[btn-indigo-300]:focus,
 button[btn-color~=indigo-300]:focus,
@@ -12949,7 +12882,6 @@ a.btn-indigo-400,
 .btn-indigo-400 {
   background-color: #5c6bc0;
   background: #5c6bc0;
-  color: #fff;
 }
 button[btn-indigo-400]:focus,
 button[btn-color~=indigo-400]:focus,
@@ -13142,7 +13074,6 @@ a.btn-indigo-500,
 .btn-indigo-500 {
   background-color: #3f51b5;
   background: #3f51b5;
-  color: #fff;
 }
 button[btn-indigo-500]:focus,
 button[btn-color~=indigo-500]:focus,
@@ -13335,7 +13266,6 @@ a.btn-indigo-600,
 .btn-indigo-600 {
   background-color: #3949ab;
   background: #3949ab;
-  color: #fff;
 }
 button[btn-indigo-600]:focus,
 button[btn-color~=indigo-600]:focus,
@@ -13528,7 +13458,6 @@ a.btn-indigo-700,
 .btn-indigo-700 {
   background-color: #303f9f;
   background: #303f9f;
-  color: #fff;
 }
 button[btn-indigo-700]:focus,
 button[btn-color~=indigo-700]:focus,
@@ -13721,7 +13650,6 @@ a.btn-indigo-800,
 .btn-indigo-800 {
   background-color: #283593;
   background: #283593;
-  color: #fff;
 }
 button[btn-indigo-800]:focus,
 button[btn-color~=indigo-800]:focus,
@@ -13914,7 +13842,6 @@ a.btn-indigo-900,
 .btn-indigo-900 {
   background-color: #1a237e;
   background: #1a237e;
-  color: #fff;
 }
 button[btn-indigo-900]:focus,
 button[btn-color~=indigo-900]:focus,
@@ -14107,7 +14034,6 @@ a.btn-indigo-A100,
 .btn-indigo-A100 {
   background-color: #8c9eff;
   background: #8c9eff;
-  color: color-purpe-700;
 }
 button[btn-indigo-A100]:focus,
 button[btn-color~=indigo-A100]:focus,
@@ -14300,7 +14226,6 @@ a.btn-indigo-A200,
 .btn-indigo-A200 {
   background-color: #536dfe;
   background: #536dfe;
-  color: color-purpe-700;
 }
 button[btn-indigo-A200]:focus,
 button[btn-color~=indigo-A200]:focus,
@@ -14493,7 +14418,6 @@ a.btn-indigo-A400,
 .btn-indigo-A400 {
   background-color: #3d5afe;
   background: #3d5afe;
-  color: color-purpe-700;
 }
 button[btn-indigo-A400]:focus,
 button[btn-color~=indigo-A400]:focus,
@@ -14686,7 +14610,6 @@ a.btn-indigo-A700,
 .btn-indigo-A700 {
   background-color: #304ffe;
   background: #304ffe;
-  color: #fff;
 }
 button[btn-indigo-A700]:focus,
 button[btn-color~=indigo-A700]:focus,
@@ -14879,7 +14802,6 @@ a.btn-blue,
 .btn-blue {
   background-color: #5677fc;
   background: #5677fc;
-  color: #fff;
 }
 button[btn-blue]:focus,
 button[btn-color~=blue]:focus,
@@ -15072,7 +14994,6 @@ a.btn-blue-50,
 .btn-blue-50 {
   background-color: #e7e9fd;
   background: #e7e9fd;
-  color: color-purpe-700;
 }
 button[btn-blue-50]:focus,
 button[btn-color~=blue-50]:focus,
@@ -15265,7 +15186,6 @@ a.btn-blue-100,
 .btn-blue-100 {
   background-color: #d0d9ff;
   background: #d0d9ff;
-  color: color-purpe-700;
 }
 button[btn-blue-100]:focus,
 button[btn-color~=blue-100]:focus,
@@ -15458,7 +15378,6 @@ a.btn-blue-200,
 .btn-blue-200 {
   background-color: #afbfff;
   background: #afbfff;
-  color: color-purpe-700;
 }
 button[btn-blue-200]:focus,
 button[btn-color~=blue-200]:focus,
@@ -15651,7 +15570,6 @@ a.btn-blue-300,
 .btn-blue-300 {
   background-color: #91a7ff;
   background: #91a7ff;
-  color: color-purpe-700;
 }
 button[btn-blue-300]:focus,
 button[btn-color~=blue-300]:focus,
@@ -15844,7 +15762,6 @@ a.btn-blue-400,
 .btn-blue-400 {
   background-color: #738ffe;
   background: #738ffe;
-  color: color-purpe-700;
 }
 button[btn-blue-400]:focus,
 button[btn-color~=blue-400]:focus,
@@ -16037,7 +15954,6 @@ a.btn-blue-500,
 .btn-blue-500 {
   background-color: #5677fc;
   background: #5677fc;
-  color: color-purpe-700;
 }
 button[btn-blue-500]:focus,
 button[btn-color~=blue-500]:focus,
@@ -16230,7 +16146,6 @@ a.btn-blue-600,
 .btn-blue-600 {
   background-color: #4e6cef;
   background: #4e6cef;
-  color: color-purpe-700;
 }
 button[btn-blue-600]:focus,
 button[btn-color~=blue-600]:focus,
@@ -16423,7 +16338,6 @@ a.btn-blue-700,
 .btn-blue-700 {
   background-color: #455ede;
   background: #455ede;
-  color: #fff;
 }
 button[btn-blue-700]:focus,
 button[btn-color~=blue-700]:focus,
@@ -16616,7 +16530,6 @@ a.btn-blue-800,
 .btn-blue-800 {
   background-color: #3b50ce;
   background: #3b50ce;
-  color: #fff;
 }
 button[btn-blue-800]:focus,
 button[btn-color~=blue-800]:focus,
@@ -16809,7 +16722,6 @@ a.btn-blue-900,
 .btn-blue-900 {
   background-color: #2a36b1;
   background: #2a36b1;
-  color: #fff;
 }
 button[btn-blue-900]:focus,
 button[btn-color~=blue-900]:focus,
@@ -17002,7 +16914,6 @@ a.btn-blue-A100,
 .btn-blue-A100 {
   background-color: #a6baff;
   background: #a6baff;
-  color: color-purpe-700;
 }
 button[btn-blue-A100]:focus,
 button[btn-color~=blue-A100]:focus,
@@ -17195,7 +17106,6 @@ a.btn-blue-A200,
 .btn-blue-A200 {
   background-color: #6889ff;
   background: #6889ff;
-  color: color-purpe-700;
 }
 button[btn-blue-A200]:focus,
 button[btn-color~=blue-A200]:focus,
@@ -17388,7 +17298,6 @@ a.btn-blue-A400,
 .btn-blue-A400 {
   background-color: #4d73ff;
   background: #4d73ff;
-  color: color-purpe-700;
 }
 button[btn-blue-A400]:focus,
 button[btn-color~=blue-A400]:focus,
@@ -17581,7 +17490,6 @@ a.btn-blue-A700,
 .btn-blue-A700 {
   background-color: #4d69ff;
   background: #4d69ff;
-  color: color-purpe-700;
 }
 button[btn-blue-A700]:focus,
 button[btn-color~=blue-A700]:focus,
@@ -17774,7 +17682,6 @@ a.btn-light-blue,
 .btn-light-blue {
   background-color: #03a9f4;
   background: #03a9f4;
-  color: #fff;
 }
 button[btn-light-blue]:focus,
 button[btn-color~=light-blue]:focus,
@@ -17967,7 +17874,6 @@ a.btn-light-blue-50,
 .btn-light-blue-50 {
   background-color: #e1f5fe;
   background: #e1f5fe;
-  color: color-purpe-700;
 }
 button[btn-light-blue-50]:focus,
 button[btn-color~=light-blue-50]:focus,
@@ -18160,7 +18066,6 @@ a.btn-light-blue-100,
 .btn-light-blue-100 {
   background-color: #b3e5fc;
   background: #b3e5fc;
-  color: color-purpe-700;
 }
 button[btn-light-blue-100]:focus,
 button[btn-color~=light-blue-100]:focus,
@@ -18353,7 +18258,6 @@ a.btn-light-blue-200,
 .btn-light-blue-200 {
   background-color: #81d4fa;
   background: #81d4fa;
-  color: color-purpe-700;
 }
 button[btn-light-blue-200]:focus,
 button[btn-color~=light-blue-200]:focus,
@@ -18546,7 +18450,6 @@ a.btn-light-blue-300,
 .btn-light-blue-300 {
   background-color: #4fc3f7;
   background: #4fc3f7;
-  color: color-purpe-700;
 }
 button[btn-light-blue-300]:focus,
 button[btn-color~=light-blue-300]:focus,
@@ -18739,7 +18642,6 @@ a.btn-light-blue-400,
 .btn-light-blue-400 {
   background-color: #29b6f6;
   background: #29b6f6;
-  color: #fff;
 }
 button[btn-light-blue-400]:focus,
 button[btn-color~=light-blue-400]:focus,
@@ -18932,7 +18834,6 @@ a.btn-light-blue-500,
 .btn-light-blue-500 {
   background-color: #03a9f4;
   background: #03a9f4;
-  color: #fff;
 }
 button[btn-light-blue-500]:focus,
 button[btn-color~=light-blue-500]:focus,
@@ -19125,7 +19026,6 @@ a.btn-light-blue-600,
 .btn-light-blue-600 {
   background-color: #039be5;
   background: #039be5;
-  color: #fff;
 }
 button[btn-light-blue-600]:focus,
 button[btn-color~=light-blue-600]:focus,
@@ -19318,7 +19218,6 @@ a.btn-light-blue-700,
 .btn-light-blue-700 {
   background-color: #0288d1;
   background: #0288d1;
-  color: #fff;
 }
 button[btn-light-blue-700]:focus,
 button[btn-color~=light-blue-700]:focus,
@@ -19511,7 +19410,6 @@ a.btn-light-blue-800,
 .btn-light-blue-800 {
   background-color: #0277bd;
   background: #0277bd;
-  color: #fff;
 }
 button[btn-light-blue-800]:focus,
 button[btn-color~=light-blue-800]:focus,
@@ -19704,7 +19602,6 @@ a.btn-light-blue-900,
 .btn-light-blue-900 {
   background-color: #01579b;
   background: #01579b;
-  color: #fff;
 }
 button[btn-light-blue-900]:focus,
 button[btn-color~=light-blue-900]:focus,
@@ -19897,7 +19794,6 @@ a.btn-light-blue-A100,
 .btn-light-blue-A100 {
   background-color: #80d8ff;
   background: #80d8ff;
-  color: color-purpe-700;
 }
 button[btn-light-blue-A100]:focus,
 button[btn-color~=light-blue-A100]:focus,
@@ -20090,7 +19986,6 @@ a.btn-light-blue-A200,
 .btn-light-blue-A200 {
   background-color: #40c4ff;
   background: #40c4ff;
-  color: color-purpe-700;
 }
 button[btn-light-blue-A200]:focus,
 button[btn-color~=light-blue-A200]:focus,
@@ -20283,7 +20178,6 @@ a.btn-light-blue-A400,
 .btn-light-blue-A400 {
   background-color: #00b0ff;
   background: #00b0ff;
-  color: #fff;
 }
 button[btn-light-blue-A400]:focus,
 button[btn-color~=light-blue-A400]:focus,
@@ -20476,7 +20370,6 @@ a.btn-light-blue-A700,
 .btn-light-blue-A700 {
   background-color: #0091ea;
   background: #0091ea;
-  color: #fff;
 }
 button[btn-light-blue-A700]:focus,
 button[btn-color~=light-blue-A700]:focus,
@@ -20669,7 +20562,6 @@ a.btn-cyan,
 .btn-cyan {
   background-color: #00bcd4;
   background: #00bcd4;
-  color: #fff;
 }
 button[btn-cyan]:focus,
 button[btn-color~=cyan]:focus,
@@ -20862,7 +20754,6 @@ a.btn-cyan-50,
 .btn-cyan-50 {
   background-color: #e0f7fa;
   background: #e0f7fa;
-  color: color-purpe-700;
 }
 button[btn-cyan-50]:focus,
 button[btn-color~=cyan-50]:focus,
@@ -21055,7 +20946,6 @@ a.btn-cyan-100,
 .btn-cyan-100 {
   background-color: #b2ebf2;
   background: #b2ebf2;
-  color: color-purpe-700;
 }
 button[btn-cyan-100]:focus,
 button[btn-color~=cyan-100]:focus,
@@ -21248,7 +21138,6 @@ a.btn-cyan-200,
 .btn-cyan-200 {
   background-color: #80deea;
   background: #80deea;
-  color: color-purpe-700;
 }
 button[btn-cyan-200]:focus,
 button[btn-color~=cyan-200]:focus,
@@ -21441,7 +21330,6 @@ a.btn-cyan-300,
 .btn-cyan-300 {
   background-color: #4dd0e1;
   background: #4dd0e1;
-  color: #fff;
 }
 button[btn-cyan-300]:focus,
 button[btn-color~=cyan-300]:focus,
@@ -21634,7 +21522,6 @@ a.btn-cyan-400,
 .btn-cyan-400 {
   background-color: #26c6da;
   background: #26c6da;
-  color: #fff;
 }
 button[btn-cyan-400]:focus,
 button[btn-color~=cyan-400]:focus,
@@ -21827,7 +21714,6 @@ a.btn-cyan-500,
 .btn-cyan-500 {
   background-color: #00bcd4;
   background: #00bcd4;
-  color: #fff;
 }
 button[btn-cyan-500]:focus,
 button[btn-color~=cyan-500]:focus,
@@ -22020,7 +21906,6 @@ a.btn-cyan-600,
 .btn-cyan-600 {
   background-color: #00acc1;
   background: #00acc1;
-  color: #fff;
 }
 button[btn-cyan-600]:focus,
 button[btn-color~=cyan-600]:focus,
@@ -22213,7 +22098,6 @@ a.btn-cyan-700,
 .btn-cyan-700 {
   background-color: #0097a7;
   background: #0097a7;
-  color: #fff;
 }
 button[btn-cyan-700]:focus,
 button[btn-color~=cyan-700]:focus,
@@ -22406,7 +22290,6 @@ a.btn-cyan-800,
 .btn-cyan-800 {
   background-color: #00838f;
   background: #00838f;
-  color: #fff;
 }
 button[btn-cyan-800]:focus,
 button[btn-color~=cyan-800]:focus,
@@ -22599,7 +22482,6 @@ a.btn-cyan-900,
 .btn-cyan-900 {
   background-color: #006064;
   background: #006064;
-  color: #fff;
 }
 button[btn-cyan-900]:focus,
 button[btn-color~=cyan-900]:focus,
@@ -22792,7 +22674,6 @@ a.btn-cyan-A100,
 .btn-cyan-A100 {
   background-color: #84ffff;
   background: #84ffff;
-  color: color-purpe-700;
 }
 button[btn-cyan-A100]:focus,
 button[btn-color~=cyan-A100]:focus,
@@ -22985,7 +22866,6 @@ a.btn-cyan-A200,
 .btn-cyan-A200 {
   background-color: #18ffff;
   background: #18ffff;
-  color: #fff;
 }
 button[btn-cyan-A200]:focus,
 button[btn-color~=cyan-A200]:focus,
@@ -23178,7 +23058,6 @@ a.btn-cyan-A400,
 .btn-cyan-A400 {
   background-color: #00e5ff;
   background: #00e5ff;
-  color: #fff;
 }
 button[btn-cyan-A400]:focus,
 button[btn-color~=cyan-A400]:focus,
@@ -23371,7 +23250,6 @@ a.btn-cyan-A700,
 .btn-cyan-A700 {
   background-color: #00b8d4;
   background: #00b8d4;
-  color: #fff;
 }
 button[btn-cyan-A700]:focus,
 button[btn-color~=cyan-A700]:focus,
@@ -23564,7 +23442,6 @@ a.btn-teal,
 .btn-teal {
   background-color: #009688;
   background: #009688;
-  color: #fff;
 }
 button[btn-teal]:focus,
 button[btn-color~=teal]:focus,
@@ -23757,7 +23634,6 @@ a.btn-teal-50,
 .btn-teal-50 {
   background-color: #e0f2f1;
   background: #e0f2f1;
-  color: color-purpe-700;
 }
 button[btn-teal-50]:focus,
 button[btn-color~=teal-50]:focus,
@@ -23950,7 +23826,6 @@ a.btn-teal-100,
 .btn-teal-100 {
   background-color: #b2dfdb;
   background: #b2dfdb;
-  color: color-purpe-700;
 }
 button[btn-teal-100]:focus,
 button[btn-color~=teal-100]:focus,
@@ -24143,7 +24018,6 @@ a.btn-teal-200,
 .btn-teal-200 {
   background-color: #80cbc4;
   background: #80cbc4;
-  color: color-purpe-700;
 }
 button[btn-teal-200]:focus,
 button[btn-color~=teal-200]:focus,
@@ -24336,7 +24210,6 @@ a.btn-teal-300,
 .btn-teal-300 {
   background-color: #4db6ac;
   background: #4db6ac;
-  color: #fff;
 }
 button[btn-teal-300]:focus,
 button[btn-color~=teal-300]:focus,
@@ -24529,7 +24402,6 @@ a.btn-teal-400,
 .btn-teal-400 {
   background-color: #26a69a;
   background: #26a69a;
-  color: #fff;
 }
 button[btn-teal-400]:focus,
 button[btn-color~=teal-400]:focus,
@@ -24722,7 +24594,6 @@ a.btn-teal-500,
 .btn-teal-500 {
   background-color: #009688;
   background: #009688;
-  color: #fff;
 }
 button[btn-teal-500]:focus,
 button[btn-color~=teal-500]:focus,
@@ -24915,7 +24786,6 @@ a.btn-teal-600,
 .btn-teal-600 {
   background-color: #00897b;
   background: #00897b;
-  color: #fff;
 }
 button[btn-teal-600]:focus,
 button[btn-color~=teal-600]:focus,
@@ -25108,7 +24978,6 @@ a.btn-teal-700,
 .btn-teal-700 {
   background-color: #00796b;
   background: #00796b;
-  color: #fff;
 }
 button[btn-teal-700]:focus,
 button[btn-color~=teal-700]:focus,
@@ -25301,7 +25170,6 @@ a.btn-teal-800,
 .btn-teal-800 {
   background-color: #00695c;
   background: #00695c;
-  color: #fff;
 }
 button[btn-teal-800]:focus,
 button[btn-color~=teal-800]:focus,
@@ -25494,7 +25362,6 @@ a.btn-teal-900,
 .btn-teal-900 {
   background-color: #004d40;
   background: #004d40;
-  color: #fff;
 }
 button[btn-teal-900]:focus,
 button[btn-color~=teal-900]:focus,
@@ -25687,7 +25554,6 @@ a.btn-teal-A100,
 .btn-teal-A100 {
   background-color: #a7ffeb;
   background: #a7ffeb;
-  color: color-purpe-700;
 }
 button[btn-teal-A100]:focus,
 button[btn-color~=teal-A100]:focus,
@@ -25880,7 +25746,6 @@ a.btn-teal-A200,
 .btn-teal-A200 {
   background-color: #64ffda;
   background: #64ffda;
-  color: color-purpe-700;
 }
 button[btn-teal-A200]:focus,
 button[btn-color~=teal-A200]:focus,
@@ -26073,7 +25938,6 @@ a.btn-teal-A400,
 .btn-teal-A400 {
   background-color: #1de9b6;
   background: #1de9b6;
-  color: #fff;
 }
 button[btn-teal-A400]:focus,
 button[btn-color~=teal-A400]:focus,
@@ -26266,7 +26130,6 @@ a.btn-teal-A700,
 .btn-teal-A700 {
   background-color: #00bfa5;
   background: #00bfa5;
-  color: #fff;
 }
 button[btn-teal-A700]:focus,
 button[btn-color~=teal-A700]:focus,
@@ -26459,7 +26322,6 @@ a.btn-green,
 .btn-green {
   background-color: #259b24;
   background: #259b24;
-  color: #fff;
 }
 button[btn-green]:focus,
 button[btn-color~=green]:focus,
@@ -26652,7 +26514,6 @@ a.btn-green-50,
 .btn-green-50 {
   background-color: #d0f8ce;
   background: #d0f8ce;
-  color: color-purpe-700;
 }
 button[btn-green-50]:focus,
 button[btn-color~=green-50]:focus,
@@ -26845,7 +26706,6 @@ a.btn-green-100,
 .btn-green-100 {
   background-color: #a3e9a4;
   background: #a3e9a4;
-  color: color-purpe-700;
 }
 button[btn-green-100]:focus,
 button[btn-color~=green-100]:focus,
@@ -27038,7 +26898,6 @@ a.btn-green-200,
 .btn-green-200 {
   background-color: #72d572;
   background: #72d572;
-  color: color-purpe-700;
 }
 button[btn-green-200]:focus,
 button[btn-color~=green-200]:focus,
@@ -27231,7 +27090,6 @@ a.btn-green-300,
 .btn-green-300 {
   background-color: #42bd41;
   background: #42bd41;
-  color: #fff;
 }
 button[btn-green-300]:focus,
 button[btn-color~=green-300]:focus,
@@ -27424,7 +27282,6 @@ a.btn-green-400,
 .btn-green-400 {
   background-color: #2baf2b;
   background: #2baf2b;
-  color: #fff;
 }
 button[btn-green-400]:focus,
 button[btn-color~=green-400]:focus,
@@ -27617,7 +27474,6 @@ a.btn-green-500,
 .btn-green-500 {
   background-color: #259b24;
   background: #259b24;
-  color: #fff;
 }
 button[btn-green-500]:focus,
 button[btn-color~=green-500]:focus,
@@ -27810,7 +27666,6 @@ a.btn-green-600,
 .btn-green-600 {
   background-color: #0a8f08;
   background: #0a8f08;
-  color: #fff;
 }
 button[btn-green-600]:focus,
 button[btn-color~=green-600]:focus,
@@ -28003,7 +27858,6 @@ a.btn-green-700,
 .btn-green-700 {
   background-color: #0a7e07;
   background: #0a7e07;
-  color: #fff;
 }
 button[btn-green-700]:focus,
 button[btn-color~=green-700]:focus,
@@ -28196,7 +28050,6 @@ a.btn-green-800,
 .btn-green-800 {
   background-color: #056f00;
   background: #056f00;
-  color: #fff;
 }
 button[btn-green-800]:focus,
 button[btn-color~=green-800]:focus,
@@ -28389,7 +28242,6 @@ a.btn-green-900,
 .btn-green-900 {
   background-color: #0d5302;
   background: #0d5302;
-  color: #fff;
 }
 button[btn-green-900]:focus,
 button[btn-color~=green-900]:focus,
@@ -28582,7 +28434,6 @@ a.btn-green-A100,
 .btn-green-A100 {
   background-color: #a2f78d;
   background: #a2f78d;
-  color: color-purpe-700;
 }
 button[btn-green-A100]:focus,
 button[btn-color~=green-A100]:focus,
@@ -28775,7 +28626,6 @@ a.btn-green-A200,
 .btn-green-A200 {
   background-color: #5af158;
   background: #5af158;
-  color: color-purpe-700;
 }
 button[btn-green-A200]:focus,
 button[btn-color~=green-A200]:focus,
@@ -28968,7 +28818,6 @@ a.btn-green-A400,
 .btn-green-A400 {
   background-color: #14e715;
   background: #14e715;
-  color: #fff;
 }
 button[btn-green-A400]:focus,
 button[btn-color~=green-A400]:focus,
@@ -29161,7 +29010,6 @@ a.btn-green-A700,
 .btn-green-A700 {
   background-color: #12c700;
   background: #12c700;
-  color: #fff;
 }
 button[btn-green-A700]:focus,
 button[btn-color~=green-A700]:focus,
@@ -29354,7 +29202,6 @@ a.btn-light-green,
 .btn-light-green {
   background-color: #8bc34a;
   background: #8bc34a;
-  color: #fff;
 }
 button[btn-light-green]:focus,
 button[btn-color~=light-green]:focus,
@@ -29547,7 +29394,6 @@ a.btn-light-green-50,
 .btn-light-green-50 {
   background-color: #f1f8e9;
   background: #f1f8e9;
-  color: color-purpe-700;
 }
 button[btn-light-green-50]:focus,
 button[btn-color~=light-green-50]:focus,
@@ -29740,7 +29586,6 @@ a.btn-light-green-100,
 .btn-light-green-100 {
   background-color: #dcedc8;
   background: #dcedc8;
-  color: color-purpe-700;
 }
 button[btn-light-green-100]:focus,
 button[btn-color~=light-green-100]:focus,
@@ -29933,7 +29778,6 @@ a.btn-light-green-200,
 .btn-light-green-200 {
   background-color: #c5e1a5;
   background: #c5e1a5;
-  color: color-purpe-700;
 }
 button[btn-light-green-200]:focus,
 button[btn-color~=light-green-200]:focus,
@@ -30126,7 +29970,6 @@ a.btn-light-green-300,
 .btn-light-green-300 {
   background-color: #aed581;
   background: #aed581;
-  color: color-purpe-700;
 }
 button[btn-light-green-300]:focus,
 button[btn-color~=light-green-300]:focus,
@@ -30319,7 +30162,6 @@ a.btn-light-green-400,
 .btn-light-green-400 {
   background-color: #9ccc65;
   background: #9ccc65;
-  color: #fff;
 }
 button[btn-light-green-400]:focus,
 button[btn-color~=light-green-400]:focus,
@@ -30512,7 +30354,6 @@ a.btn-light-green-500,
 .btn-light-green-500 {
   background-color: #8bc34a;
   background: #8bc34a;
-  color: #fff;
 }
 button[btn-light-green-500]:focus,
 button[btn-color~=light-green-500]:focus,
@@ -30705,7 +30546,6 @@ a.btn-light-green-600,
 .btn-light-green-600 {
   background-color: #7cb342;
   background: #7cb342;
-  color: #fff;
 }
 button[btn-light-green-600]:focus,
 button[btn-color~=light-green-600]:focus,
@@ -30898,7 +30738,6 @@ a.btn-light-green-700,
 .btn-light-green-700 {
   background-color: #689f38;
   background: #689f38;
-  color: #fff;
 }
 button[btn-light-green-700]:focus,
 button[btn-color~=light-green-700]:focus,
@@ -31091,7 +30930,6 @@ a.btn-light-green-800,
 .btn-light-green-800 {
   background-color: #558b2f;
   background: #558b2f;
-  color: #fff;
 }
 button[btn-light-green-800]:focus,
 button[btn-color~=light-green-800]:focus,
@@ -31284,7 +31122,6 @@ a.btn-light-green-900,
 .btn-light-green-900 {
   background-color: #33691e;
   background: #33691e;
-  color: #fff;
 }
 button[btn-light-green-900]:focus,
 button[btn-color~=light-green-900]:focus,
@@ -31477,7 +31314,6 @@ a.btn-light-green-A100,
 .btn-light-green-A100 {
   background-color: #ccff90;
   background: #ccff90;
-  color: color-purpe-700;
 }
 button[btn-light-green-A100]:focus,
 button[btn-color~=light-green-A100]:focus,
@@ -31670,7 +31506,6 @@ a.btn-light-green-A200,
 .btn-light-green-A200 {
   background-color: #b2ff59;
   background: #b2ff59;
-  color: color-purpe-700;
 }
 button[btn-light-green-A200]:focus,
 button[btn-color~=light-green-A200]:focus,
@@ -31863,7 +31698,6 @@ a.btn-light-green-A400,
 .btn-light-green-A400 {
   background-color: #76ff03;
   background: #76ff03;
-  color: #fff;
 }
 button[btn-light-green-A400]:focus,
 button[btn-color~=light-green-A400]:focus,
@@ -32056,7 +31890,6 @@ a.btn-light-green-A700,
 .btn-light-green-A700 {
   background-color: #64dd17;
   background: #64dd17;
-  color: #fff;
 }
 button[btn-light-green-A700]:focus,
 button[btn-color~=light-green-A700]:focus,
@@ -32249,7 +32082,6 @@ a.btn-lime,
 .btn-lime {
   background-color: #cddc39;
   background: #cddc39;
-  color: #fff;
 }
 button[btn-lime]:focus,
 button[btn-color~=lime]:focus,
@@ -32442,7 +32274,6 @@ a.btn-lime-50,
 .btn-lime-50 {
   background-color: #f9fbe7;
   background: #f9fbe7;
-  color: color-purpe-700;
 }
 button[btn-lime-50]:focus,
 button[btn-color~=lime-50]:focus,
@@ -32635,7 +32466,6 @@ a.btn-lime-100,
 .btn-lime-100 {
   background-color: #f0f4c3;
   background: #f0f4c3;
-  color: color-purpe-700;
 }
 button[btn-lime-100]:focus,
 button[btn-color~=lime-100]:focus,
@@ -32828,7 +32658,6 @@ a.btn-lime-200,
 .btn-lime-200 {
   background-color: #e6ee9c;
   background: #e6ee9c;
-  color: color-purpe-700;
 }
 button[btn-lime-200]:focus,
 button[btn-color~=lime-200]:focus,
@@ -33021,7 +32850,6 @@ a.btn-lime-300,
 .btn-lime-300 {
   background-color: #dce775;
   background: #dce775;
-  color: color-purpe-700;
 }
 button[btn-lime-300]:focus,
 button[btn-color~=lime-300]:focus,
@@ -33214,7 +33042,6 @@ a.btn-lime-400,
 .btn-lime-400 {
   background-color: #d4e157;
   background: #d4e157;
-  color: color-purpe-700;
 }
 button[btn-lime-400]:focus,
 button[btn-color~=lime-400]:focus,
@@ -33407,7 +33234,6 @@ a.btn-lime-500,
 .btn-lime-500 {
   background-color: #cddc39;
   background: #cddc39;
-  color: #fff;
 }
 button[btn-lime-500]:focus,
 button[btn-color~=lime-500]:focus,
@@ -33600,7 +33426,6 @@ a.btn-lime-600,
 .btn-lime-600 {
   background-color: #c0ca33;
   background: #c0ca33;
-  color: #fff;
 }
 button[btn-lime-600]:focus,
 button[btn-color~=lime-600]:focus,
@@ -33793,7 +33618,6 @@ a.btn-lime-700,
 .btn-lime-700 {
   background-color: #afb42b;
   background: #afb42b;
-  color: #fff;
 }
 button[btn-lime-700]:focus,
 button[btn-color~=lime-700]:focus,
@@ -33986,7 +33810,6 @@ a.btn-lime-800,
 .btn-lime-800 {
   background-color: #9e9d24;
   background: #9e9d24;
-  color: #fff;
 }
 button[btn-lime-800]:focus,
 button[btn-color~=lime-800]:focus,
@@ -34179,7 +34002,6 @@ a.btn-lime-900,
 .btn-lime-900 {
   background-color: #827717;
   background: #827717;
-  color: #fff;
 }
 button[btn-lime-900]:focus,
 button[btn-color~=lime-900]:focus,
@@ -34372,7 +34194,6 @@ a.btn-lime-A100,
 .btn-lime-A100 {
   background-color: #f4ff81;
   background: #f4ff81;
-  color: color-purpe-700;
 }
 button[btn-lime-A100]:focus,
 button[btn-color~=lime-A100]:focus,
@@ -34565,7 +34386,6 @@ a.btn-lime-A200,
 .btn-lime-A200 {
   background-color: #eeff41;
   background: #eeff41;
-  color: color-purpe-700;
 }
 button[btn-lime-A200]:focus,
 button[btn-color~=lime-A200]:focus,
@@ -34758,7 +34578,6 @@ a.btn-lime-A400,
 .btn-lime-A400 {
   background-color: #c6ff00;
   background: #c6ff00;
-  color: #fff;
 }
 button[btn-lime-A400]:focus,
 button[btn-color~=lime-A400]:focus,
@@ -34951,7 +34770,6 @@ a.btn-lime-A700,
 .btn-lime-A700 {
   background-color: #aeea00;
   background: #aeea00;
-  color: #fff;
 }
 button[btn-lime-A700]:focus,
 button[btn-color~=lime-A700]:focus,
@@ -35144,7 +34962,6 @@ a.btn-yellow,
 .btn-yellow {
   background-color: #ffeb3b;
   background: #ffeb3b;
-  color: #fff;
 }
 button[btn-yellow]:focus,
 button[btn-color~=yellow]:focus,
@@ -35337,7 +35154,6 @@ a.btn-yellow-50,
 .btn-yellow-50 {
   background-color: #fffde7;
   background: #fffde7;
-  color: color-purpe-700;
 }
 button[btn-yellow-50]:focus,
 button[btn-color~=yellow-50]:focus,
@@ -35530,7 +35346,6 @@ a.btn-yellow-100,
 .btn-yellow-100 {
   background-color: #fff9c4;
   background: #fff9c4;
-  color: color-purpe-700;
 }
 button[btn-yellow-100]:focus,
 button[btn-color~=yellow-100]:focus,
@@ -35723,7 +35538,6 @@ a.btn-yellow-200,
 .btn-yellow-200 {
   background-color: #fff59d;
   background: #fff59d;
-  color: color-purpe-700;
 }
 button[btn-yellow-200]:focus,
 button[btn-color~=yellow-200]:focus,
@@ -35916,7 +35730,6 @@ a.btn-yellow-300,
 .btn-yellow-300 {
   background-color: #fff176;
   background: #fff176;
-  color: color-purpe-700;
 }
 button[btn-yellow-300]:focus,
 button[btn-color~=yellow-300]:focus,
@@ -36109,7 +35922,6 @@ a.btn-yellow-400,
 .btn-yellow-400 {
   background-color: #ffee58;
   background: #ffee58;
-  color: color-purpe-700;
 }
 button[btn-yellow-400]:focus,
 button[btn-color~=yellow-400]:focus,
@@ -36302,7 +36114,6 @@ a.btn-yellow-500,
 .btn-yellow-500 {
   background-color: #ffeb3b;
   background: #ffeb3b;
-  color: color-purpe-700;
 }
 button[btn-yellow-500]:focus,
 button[btn-color~=yellow-500]:focus,
@@ -36495,7 +36306,6 @@ a.btn-yellow-600,
 .btn-yellow-600 {
   background-color: #fdd835;
   background: #fdd835;
-  color: #fff;
 }
 button[btn-yellow-600]:focus,
 button[btn-color~=yellow-600]:focus,
@@ -36688,7 +36498,6 @@ a.btn-yellow-700,
 .btn-yellow-700 {
   background-color: #fbc02d;
   background: #fbc02d;
-  color: #fff;
 }
 button[btn-yellow-700]:focus,
 button[btn-color~=yellow-700]:focus,
@@ -36881,7 +36690,6 @@ a.btn-yellow-800,
 .btn-yellow-800 {
   background-color: #f9a825;
   background: #f9a825;
-  color: #fff;
 }
 button[btn-yellow-800]:focus,
 button[btn-color~=yellow-800]:focus,
@@ -37074,7 +36882,6 @@ a.btn-yellow-900,
 .btn-yellow-900 {
   background-color: #f57f17;
   background: #f57f17;
-  color: #fff;
 }
 button[btn-yellow-900]:focus,
 button[btn-color~=yellow-900]:focus,
@@ -37267,7 +37074,6 @@ a.btn-yellow-A100,
 .btn-yellow-A100 {
   background-color: #ffff8d;
   background: #ffff8d;
-  color: color-purpe-700;
 }
 button[btn-yellow-A100]:focus,
 button[btn-color~=yellow-A100]:focus,
@@ -37460,7 +37266,6 @@ a.btn-yellow-A200,
 .btn-yellow-A200 {
   background-color: #ff0;
   background: #ff0;
-  color: #fff;
 }
 button[btn-yellow-A200]:focus,
 button[btn-color~=yellow-A200]:focus,
@@ -37653,7 +37458,6 @@ a.btn-yellow-A400,
 .btn-yellow-A400 {
   background-color: #ffea00;
   background: #ffea00;
-  color: #fff;
 }
 button[btn-yellow-A400]:focus,
 button[btn-color~=yellow-A400]:focus,
@@ -37846,7 +37650,6 @@ a.btn-yellow-A700,
 .btn-yellow-A700 {
   background-color: #ffd600;
   background: #ffd600;
-  color: #fff;
 }
 button[btn-yellow-A700]:focus,
 button[btn-color~=yellow-A700]:focus,
@@ -38039,7 +37842,6 @@ a.btn-amber,
 .btn-amber {
   background-color: #ffc107;
   background: #ffc107;
-  color: #fff;
 }
 button[btn-amber]:focus,
 button[btn-color~=amber]:focus,
@@ -38232,7 +38034,6 @@ a.btn-amber-50,
 .btn-amber-50 {
   background-color: #fff8e1;
   background: #fff8e1;
-  color: color-purpe-700;
 }
 button[btn-amber-50]:focus,
 button[btn-color~=amber-50]:focus,
@@ -38425,7 +38226,6 @@ a.btn-amber-100,
 .btn-amber-100 {
   background-color: #ffecb3;
   background: #ffecb3;
-  color: color-purpe-700;
 }
 button[btn-amber-100]:focus,
 button[btn-color~=amber-100]:focus,
@@ -38618,7 +38418,6 @@ a.btn-amber-200,
 .btn-amber-200 {
   background-color: #ffe082;
   background: #ffe082;
-  color: color-purpe-700;
 }
 button[btn-amber-200]:focus,
 button[btn-color~=amber-200]:focus,
@@ -38811,7 +38610,6 @@ a.btn-amber-300,
 .btn-amber-300 {
   background-color: #ffd54f;
   background: #ffd54f;
-  color: color-purpe-700;
 }
 button[btn-amber-300]:focus,
 button[btn-color~=amber-300]:focus,
@@ -39004,7 +38802,6 @@ a.btn-amber-400,
 .btn-amber-400 {
   background-color: #ffca28;
   background: #ffca28;
-  color: #fff;
 }
 button[btn-amber-400]:focus,
 button[btn-color~=amber-400]:focus,
@@ -39197,7 +38994,6 @@ a.btn-amber-500,
 .btn-amber-500 {
   background-color: #ffc107;
   background: #ffc107;
-  color: #fff;
 }
 button[btn-amber-500]:focus,
 button[btn-color~=amber-500]:focus,
@@ -39390,7 +39186,6 @@ a.btn-amber-600,
 .btn-amber-600 {
   background-color: #ffb300;
   background: #ffb300;
-  color: #fff;
 }
 button[btn-amber-600]:focus,
 button[btn-color~=amber-600]:focus,
@@ -39583,7 +39378,6 @@ a.btn-amber-700,
 .btn-amber-700 {
   background-color: #ffa000;
   background: #ffa000;
-  color: #fff;
 }
 button[btn-amber-700]:focus,
 button[btn-color~=amber-700]:focus,
@@ -39776,7 +39570,6 @@ a.btn-amber-800,
 .btn-amber-800 {
   background-color: #ff8f00;
   background: #ff8f00;
-  color: #fff;
 }
 button[btn-amber-800]:focus,
 button[btn-color~=amber-800]:focus,
@@ -39969,7 +39762,6 @@ a.btn-amber-900,
 .btn-amber-900 {
   background-color: #ff6f00;
   background: #ff6f00;
-  color: #fff;
 }
 button[btn-amber-900]:focus,
 button[btn-color~=amber-900]:focus,
@@ -40162,7 +39954,6 @@ a.btn-amber-A100,
 .btn-amber-A100 {
   background-color: #ffe57f;
   background: #ffe57f;
-  color: color-purpe-700;
 }
 button[btn-amber-A100]:focus,
 button[btn-color~=amber-A100]:focus,
@@ -40355,7 +40146,6 @@ a.btn-amber-A200,
 .btn-amber-A200 {
   background-color: #ffd740;
   background: #ffd740;
-  color: color-purpe-700;
 }
 button[btn-amber-A200]:focus,
 button[btn-color~=amber-A200]:focus,
@@ -40548,7 +40338,6 @@ a.btn-amber-A400,
 .btn-amber-A400 {
   background-color: #ffc400;
   background: #ffc400;
-  color: #fff;
 }
 button[btn-amber-A400]:focus,
 button[btn-color~=amber-A400]:focus,
@@ -40741,7 +40530,6 @@ a.btn-amber-A700,
 .btn-amber-A700 {
   background-color: #ffab00;
   background: #ffab00;
-  color: #fff;
 }
 button[btn-amber-A700]:focus,
 button[btn-color~=amber-A700]:focus,
@@ -40934,7 +40722,6 @@ a.btn-orange,
 .btn-orange {
   background-color: #ff9800;
   background: #ff9800;
-  color: #fff;
 }
 button[btn-orange]:focus,
 button[btn-color~=orange]:focus,
@@ -41127,7 +40914,6 @@ a.btn-orange-50,
 .btn-orange-50 {
   background-color: #fff3e0;
   background: #fff3e0;
-  color: color-purpe-700;
 }
 button[btn-orange-50]:focus,
 button[btn-color~=orange-50]:focus,
@@ -41320,7 +41106,6 @@ a.btn-orange-100,
 .btn-orange-100 {
   background-color: #ffe0b2;
   background: #ffe0b2;
-  color: color-purpe-700;
 }
 button[btn-orange-100]:focus,
 button[btn-color~=orange-100]:focus,
@@ -41513,7 +41298,6 @@ a.btn-orange-200,
 .btn-orange-200 {
   background-color: #ffcc80;
   background: #ffcc80;
-  color: color-purpe-700;
 }
 button[btn-orange-200]:focus,
 button[btn-color~=orange-200]:focus,
@@ -41706,7 +41490,6 @@ a.btn-orange-300,
 .btn-orange-300 {
   background-color: #ffb74d;
   background: #ffb74d;
-  color: color-purpe-700;
 }
 button[btn-orange-300]:focus,
 button[btn-color~=orange-300]:focus,
@@ -41899,7 +41682,6 @@ a.btn-orange-400,
 .btn-orange-400 {
   background-color: #ffa726;
   background: #ffa726;
-  color: #fff;
 }
 button[btn-orange-400]:focus,
 button[btn-color~=orange-400]:focus,
@@ -42092,7 +41874,6 @@ a.btn-orange-500,
 .btn-orange-500 {
   background-color: #ff9800;
   background: #ff9800;
-  color: #fff;
 }
 button[btn-orange-500]:focus,
 button[btn-color~=orange-500]:focus,
@@ -42285,7 +42066,6 @@ a.btn-orange-600,
 .btn-orange-600 {
   background-color: #fb8c00;
   background: #fb8c00;
-  color: #fff;
 }
 button[btn-orange-600]:focus,
 button[btn-color~=orange-600]:focus,
@@ -42478,7 +42258,6 @@ a.btn-orange-700,
 .btn-orange-700 {
   background-color: #f57c00;
   background: #f57c00;
-  color: #fff;
 }
 button[btn-orange-700]:focus,
 button[btn-color~=orange-700]:focus,
@@ -42671,7 +42450,6 @@ a.btn-orange-800,
 .btn-orange-800 {
   background-color: #ef6c00;
   background: #ef6c00;
-  color: #fff;
 }
 button[btn-orange-800]:focus,
 button[btn-color~=orange-800]:focus,
@@ -42864,7 +42642,6 @@ a.btn-orange-900,
 .btn-orange-900 {
   background-color: #e65100;
   background: #e65100;
-  color: #fff;
 }
 button[btn-orange-900]:focus,
 button[btn-color~=orange-900]:focus,
@@ -43057,7 +42834,6 @@ a.btn-orange-A100,
 .btn-orange-A100 {
   background-color: #ffd180;
   background: #ffd180;
-  color: color-purpe-700;
 }
 button[btn-orange-A100]:focus,
 button[btn-color~=orange-A100]:focus,
@@ -43250,7 +43026,6 @@ a.btn-orange-A200,
 .btn-orange-A200 {
   background-color: #ffab40;
   background: #ffab40;
-  color: color-purpe-700;
 }
 button[btn-orange-A200]:focus,
 button[btn-color~=orange-A200]:focus,
@@ -43443,7 +43218,6 @@ a.btn-orange-A400,
 .btn-orange-A400 {
   background-color: #ff9100;
   background: #ff9100;
-  color: #fff;
 }
 button[btn-orange-A400]:focus,
 button[btn-color~=orange-A400]:focus,
@@ -43636,7 +43410,6 @@ a.btn-orange-A700,
 .btn-orange-A700 {
   background-color: #ff6d00;
   background: #ff6d00;
-  color: #fff;
 }
 button[btn-orange-A700]:focus,
 button[btn-color~=orange-A700]:focus,
@@ -43829,7 +43602,6 @@ a.btn-deep-orange,
 .btn-deep-orange {
   background-color: #ff5722;
   background: #ff5722;
-  color: #fff;
 }
 button[btn-deep-orange]:focus,
 button[btn-color~=deep-orange]:focus,
@@ -44022,7 +43794,6 @@ a.btn-deep-orange-50,
 .btn-deep-orange-50 {
   background-color: #fbe9e7;
   background: #fbe9e7;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-50]:focus,
 button[btn-color~=deep-orange-50]:focus,
@@ -44215,7 +43986,6 @@ a.btn-deep-orange-100,
 .btn-deep-orange-100 {
   background-color: #ffccbc;
   background: #ffccbc;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-100]:focus,
 button[btn-color~=deep-orange-100]:focus,
@@ -44408,7 +44178,6 @@ a.btn-deep-orange-200,
 .btn-deep-orange-200 {
   background-color: #ffab91;
   background: #ffab91;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-200]:focus,
 button[btn-color~=deep-orange-200]:focus,
@@ -44601,7 +44370,6 @@ a.btn-deep-orange-300,
 .btn-deep-orange-300 {
   background-color: #ff8a65;
   background: #ff8a65;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-300]:focus,
 button[btn-color~=deep-orange-300]:focus,
@@ -44794,7 +44562,6 @@ a.btn-deep-orange-400,
 .btn-deep-orange-400 {
   background-color: #ff7043;
   background: #ff7043;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-400]:focus,
 button[btn-color~=deep-orange-400]:focus,
@@ -44987,7 +44754,6 @@ a.btn-deep-orange-500,
 .btn-deep-orange-500 {
   background-color: #ff5722;
   background: #ff5722;
-  color: #fff;
 }
 button[btn-deep-orange-500]:focus,
 button[btn-color~=deep-orange-500]:focus,
@@ -45180,7 +44946,6 @@ a.btn-deep-orange-600,
 .btn-deep-orange-600 {
   background-color: #f4511e;
   background: #f4511e;
-  color: #fff;
 }
 button[btn-deep-orange-600]:focus,
 button[btn-color~=deep-orange-600]:focus,
@@ -45373,7 +45138,6 @@ a.btn-deep-orange-700,
 .btn-deep-orange-700 {
   background-color: #e64a19;
   background: #e64a19;
-  color: #fff;
 }
 button[btn-deep-orange-700]:focus,
 button[btn-color~=deep-orange-700]:focus,
@@ -45566,7 +45330,6 @@ a.btn-deep-orange-800,
 .btn-deep-orange-800 {
   background-color: #d84315;
   background: #d84315;
-  color: #fff;
 }
 button[btn-deep-orange-800]:focus,
 button[btn-color~=deep-orange-800]:focus,
@@ -45759,7 +45522,6 @@ a.btn-deep-orange-900,
 .btn-deep-orange-900 {
   background-color: #bf360c;
   background: #bf360c;
-  color: #fff;
 }
 button[btn-deep-orange-900]:focus,
 button[btn-color~=deep-orange-900]:focus,
@@ -45952,7 +45714,6 @@ a.btn-deep-orange-A100,
 .btn-deep-orange-A100 {
   background-color: #ff9e80;
   background: #ff9e80;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-A100]:focus,
 button[btn-color~=deep-orange-A100]:focus,
@@ -46145,7 +45906,6 @@ a.btn-deep-orange-A200,
 .btn-deep-orange-A200 {
   background-color: #ff6e40;
   background: #ff6e40;
-  color: color-purpe-700;
 }
 button[btn-deep-orange-A200]:focus,
 button[btn-color~=deep-orange-A200]:focus,
@@ -46338,7 +46098,6 @@ a.btn-deep-orange-A400,
 .btn-deep-orange-A400 {
   background-color: #ff3d00;
   background: #ff3d00;
-  color: #fff;
 }
 button[btn-deep-orange-A400]:focus,
 button[btn-color~=deep-orange-A400]:focus,
@@ -46531,7 +46290,6 @@ a.btn-deep-orange-A700,
 .btn-deep-orange-A700 {
   background-color: #dd2c00;
   background: #dd2c00;
-  color: #fff;
 }
 button[btn-deep-orange-A700]:focus,
 button[btn-color~=deep-orange-A700]:focus,
@@ -46724,7 +46482,6 @@ a.btn-brown,
 .btn-brown {
   background-color: #795548;
   background: #795548;
-  color: #fff;
 }
 button[btn-brown]:focus,
 button[btn-color~=brown]:focus,
@@ -46917,7 +46674,6 @@ a.btn-brown-50,
 .btn-brown-50 {
   background-color: #efebe9;
   background: #efebe9;
-  color: color-purpe-700;
 }
 button[btn-brown-50]:focus,
 button[btn-color~=brown-50]:focus,
@@ -47110,7 +46866,6 @@ a.btn-brown-100,
 .btn-brown-100 {
   background-color: #d7ccc8;
   background: #d7ccc8;
-  color: color-purpe-700;
 }
 button[btn-brown-100]:focus,
 button[btn-color~=brown-100]:focus,
@@ -47303,7 +47058,6 @@ a.btn-brown-200,
 .btn-brown-200 {
   background-color: #bcaaa4;
   background: #bcaaa4;
-  color: color-purpe-700;
 }
 button[btn-brown-200]:focus,
 button[btn-color~=brown-200]:focus,
@@ -47496,7 +47250,6 @@ a.btn-brown-300,
 .btn-brown-300 {
   background-color: #a1887f;
   background: #a1887f;
-  color: #fff;
 }
 button[btn-brown-300]:focus,
 button[btn-color~=brown-300]:focus,
@@ -47689,7 +47442,6 @@ a.btn-brown-400,
 .btn-brown-400 {
   background-color: #8d6e63;
   background: #8d6e63;
-  color: #fff;
 }
 button[btn-brown-400]:focus,
 button[btn-color~=brown-400]:focus,
@@ -47882,7 +47634,6 @@ a.btn-brown-500,
 .btn-brown-500 {
   background-color: #795548;
   background: #795548;
-  color: #fff;
 }
 button[btn-brown-500]:focus,
 button[btn-color~=brown-500]:focus,
@@ -48075,7 +47826,6 @@ a.btn-brown-600,
 .btn-brown-600 {
   background-color: #6d4c41;
   background: #6d4c41;
-  color: #fff;
 }
 button[btn-brown-600]:focus,
 button[btn-color~=brown-600]:focus,
@@ -48268,7 +48018,6 @@ a.btn-brown-700,
 .btn-brown-700 {
   background-color: #5d4037;
   background: #5d4037;
-  color: #fff;
 }
 button[btn-brown-700]:focus,
 button[btn-color~=brown-700]:focus,
@@ -48461,7 +48210,6 @@ a.btn-brown-800,
 .btn-brown-800 {
   background-color: #4e342e;
   background: #4e342e;
-  color: #fff;
 }
 button[btn-brown-800]:focus,
 button[btn-color~=brown-800]:focus,
@@ -48654,7 +48402,6 @@ a.btn-brown-900,
 .btn-brown-900 {
   background-color: #3e2723;
   background: #3e2723;
-  color: #fff;
 }
 button[btn-brown-900]:focus,
 button[btn-color~=brown-900]:focus,
@@ -48847,7 +48594,6 @@ a.btn-grey,
 .btn-grey {
   background-color: #9e9e9e;
   background: #9e9e9e;
-  color: #fff;
 }
 button[btn-grey]:focus,
 button[btn-color~=grey]:focus,
@@ -49040,7 +48786,6 @@ a.btn-grey-50,
 .btn-grey-50 {
   background-color: #fafafa;
   background: #fafafa;
-  color: color-purpe-700;
 }
 button[btn-grey-50]:focus,
 button[btn-color~=grey-50]:focus,
@@ -49233,7 +48978,6 @@ a.btn-grey-100,
 .btn-grey-100 {
   background-color: #f5f5f5;
   background: #f5f5f5;
-  color: color-purpe-700;
 }
 button[btn-grey-100]:focus,
 button[btn-color~=grey-100]:focus,
@@ -49426,7 +49170,6 @@ a.btn-grey-200,
 .btn-grey-200 {
   background-color: #eee;
   background: #eee;
-  color: color-purpe-700;
 }
 button[btn-grey-200]:focus,
 button[btn-color~=grey-200]:focus,
@@ -49619,7 +49362,6 @@ a.btn-grey-300,
 .btn-grey-300 {
   background-color: #e0e0e0;
   background: #e0e0e0;
-  color: color-purpe-700;
 }
 button[btn-grey-300]:focus,
 button[btn-color~=grey-300]:focus,
@@ -49812,7 +49554,6 @@ a.btn-grey-400,
 .btn-grey-400 {
   background-color: #bdbdbd;
   background: #bdbdbd;
-  color: color-purpe-700;
 }
 button[btn-grey-400]:focus,
 button[btn-color~=grey-400]:focus,
@@ -50005,7 +49746,6 @@ a.btn-grey-500,
 .btn-grey-500 {
   background-color: #9e9e9e;
   background: #9e9e9e;
-  color: color-purpe-700;
 }
 button[btn-grey-500]:focus,
 button[btn-color~=grey-500]:focus,
@@ -50198,7 +49938,6 @@ a.btn-grey-600,
 .btn-grey-600 {
   background-color: #757575;
   background: #757575;
-  color: #fff;
 }
 button[btn-grey-600]:focus,
 button[btn-color~=grey-600]:focus,
@@ -50391,7 +50130,6 @@ a.btn-grey-700,
 .btn-grey-700 {
   background-color: #616161;
   background: #616161;
-  color: #fff;
 }
 button[btn-grey-700]:focus,
 button[btn-color~=grey-700]:focus,
@@ -50584,7 +50322,6 @@ a.btn-grey-800,
 .btn-grey-800 {
   background-color: #424242;
   background: #424242;
-  color: #fff;
 }
 button[btn-grey-800]:focus,
 button[btn-color~=grey-800]:focus,
@@ -50777,7 +50514,6 @@ a.btn-grey-900,
 .btn-grey-900 {
   background-color: #212121;
   background: #212121;
-  color: #fff;
 }
 button[btn-grey-900]:focus,
 button[btn-color~=grey-900]:focus,
@@ -50970,7 +50706,6 @@ a.btn-grey-1000,
 .btn-grey-1000 {
   background-color: #000;
   background: #000;
-  color: #fff;
 }
 button[btn-grey-1000]:focus,
 button[btn-color~=grey-1000]:focus,
@@ -51163,7 +50898,6 @@ a.btn-blue-grey,
 .btn-blue-grey {
   background-color: #607d8b;
   background: #607d8b;
-  color: #fff;
 }
 button[btn-blue-grey]:focus,
 button[btn-color~=blue-grey]:focus,
@@ -51356,7 +51090,6 @@ a.btn-blue-grey-50,
 .btn-blue-grey-50 {
   background-color: #eceff1;
   background: #eceff1;
-  color: color-purpe-700;
 }
 button[btn-blue-grey-50]:focus,
 button[btn-color~=blue-grey-50]:focus,
@@ -51549,7 +51282,6 @@ a.btn-blue-grey-100,
 .btn-blue-grey-100 {
   background-color: #cfd8dc;
   background: #cfd8dc;
-  color: color-purpe-700;
 }
 button[btn-blue-grey-100]:focus,
 button[btn-color~=blue-grey-100]:focus,
@@ -51742,7 +51474,6 @@ a.btn-blue-grey-200,
 .btn-blue-grey-200 {
   background-color: #b0bec5;
   background: #b0bec5;
-  color: color-purpe-700;
 }
 button[btn-blue-grey-200]:focus,
 button[btn-color~=blue-grey-200]:focus,
@@ -51935,7 +51666,6 @@ a.btn-blue-grey-300,
 .btn-blue-grey-300 {
   background-color: #90a4ae;
   background: #90a4ae;
-  color: color-purpe-700;
 }
 button[btn-blue-grey-300]:focus,
 button[btn-color~=blue-grey-300]:focus,
@@ -52128,7 +51858,6 @@ a.btn-blue-grey-400,
 .btn-blue-grey-400 {
   background-color: #78909c;
   background: #78909c;
-  color: #fff;
 }
 button[btn-blue-grey-400]:focus,
 button[btn-color~=blue-grey-400]:focus,
@@ -52321,7 +52050,6 @@ a.btn-blue-grey-500,
 .btn-blue-grey-500 {
   background-color: #607d8b;
   background: #607d8b;
-  color: #fff;
 }
 button[btn-blue-grey-500]:focus,
 button[btn-color~=blue-grey-500]:focus,
@@ -52514,7 +52242,6 @@ a.btn-blue-grey-600,
 .btn-blue-grey-600 {
   background-color: #546e7a;
   background: #546e7a;
-  color: #fff;
 }
 button[btn-blue-grey-600]:focus,
 button[btn-color~=blue-grey-600]:focus,
@@ -52707,7 +52434,6 @@ a.btn-blue-grey-700,
 .btn-blue-grey-700 {
   background-color: #455a64;
   background: #455a64;
-  color: #fff;
 }
 button[btn-blue-grey-700]:focus,
 button[btn-color~=blue-grey-700]:focus,
@@ -52900,7 +52626,6 @@ a.btn-blue-grey-800,
 .btn-blue-grey-800 {
   background-color: #37474f;
   background: #37474f;
-  color: #fff;
 }
 button[btn-blue-grey-800]:focus,
 button[btn-color~=blue-grey-800]:focus,
@@ -53093,7 +52818,6 @@ a.btn-blue-grey-900,
 .btn-blue-grey-900 {
   background-color: #263238;
   background: #263238;
-  color: #fff;
 }
 button[btn-blue-grey-900]:focus,
 button[btn-color~=blue-grey-900]:focus,
