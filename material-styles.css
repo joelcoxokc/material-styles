@@ -53542,3 +53542,8 @@ a.link-blue-grey-900.active,
   border-left-color: #263238;
   border-left-style: solid;
 }
+.btn-white,
+[btn-color="white"],
+[btn-white] {
+  color: #424242;
+}
