@@ -58,7 +58,6 @@ a.btn-default.active,
 .btn-default.active {
   background: #555;
   background-color: #555;
-  color: #fff;
 }
 button.color-default,
 a.color-default,
@@ -252,7 +251,6 @@ a.btn-white.active,
 .btn-white.active {
   background: #fff;
   background-color: #fff;
-  color: #fff;
 }
 button.color-white,
 a.color-white,
@@ -446,7 +444,6 @@ a.btn-red.active,
 .btn-red.active {
   background: #e83339;
   background-color: #e83339;
-  color: #fff;
 }
 button.color-red,
 a.color-red,
@@ -640,7 +637,6 @@ a.btn-red-50.active,
 .btn-red-50.active {
   background: #fde3e0;
   background-color: #fde3e0;
-  color: color-purpe-700;
 }
 button.color-red-50,
 a.color-red-50,
@@ -834,7 +830,6 @@ a.btn-red-100.active,
 .btn-red-100.active {
   background: #fac4c2;
   background-color: #fac4c2;
-  color: color-purpe-700;
 }
 button.color-red-100,
 a.color-red-100,
@@ -1028,7 +1023,6 @@ a.btn-red-200.active,
 .btn-red-200.active {
   background: #f7a394;
   background-color: #f7a394;
-  color: color-purpe-700;
 }
 button.color-red-200,
 a.color-red-200,
@@ -1222,7 +1216,6 @@ a.btn-red-300.active,
 .btn-red-300.active {
   background: #f47b70;
   background-color: #f47b70;
-  color: color-purpe-700;
 }
 button.color-red-300,
 a.color-red-300,
@@ -1416,7 +1409,6 @@ a.btn-red-400.active,
 .btn-red-400.active {
   background: #e53626;
   background-color: #e53626;
-  color: #fff;
 }
 button.color-red-400,
 a.color-red-400,
@@ -1610,7 +1602,6 @@ a.btn-red-500.active,
 .btn-red-500.active {
   background: #d0181e;
   background-color: #d0181e;
-  color: #fff;
 }
 button.color-red-500,
 a.color-red-500,
@@ -1804,7 +1795,6 @@ a.btn-red-600.active,
 .btn-red-600.active {
   background: #c7161a;
   background-color: #c7161a;
-  color: #fff;
 }
 button.color-red-600,
 a.color-red-600,
@@ -1998,7 +1988,6 @@ a.btn-red-700.active,
 .btn-red-700.active {
   background: #bb1514;
   background-color: #bb1514;
-  color: #fff;
 }
 button.color-red-700,
 a.color-red-700,
@@ -2192,7 +2181,6 @@ a.btn-red-800.active,
 .btn-red-800.active {
   background: #b0120f;
   background-color: #b0120f;
-  color: #fff;
 }
 button.color-red-800,
 a.color-red-800,
@@ -2386,7 +2374,6 @@ a.btn-red-900.active,
 .btn-red-900.active {
   background: #9e1009;
   background-color: #9e1009;
-  color: #fff;
 }
 button.color-red-900,
 a.color-red-900,
@@ -2580,7 +2567,6 @@ a.btn-red-A100.active,
 .btn-red-A100.active {
   background: #ff86a1;
   background-color: #ff86a1;
-  color: color-purpe-700;
 }
 button.color-red-A100,
 a.color-red-A100,
@@ -2774,7 +2760,6 @@ a.btn-red-A200.active,
 .btn-red-A200.active {
   background: #ff6285;
   background-color: #ff6285;
-  color: color-purpe-700;
 }
 button.color-red-A200,
 a.color-red-A200,
@@ -2968,7 +2953,6 @@ a.btn-red-A400.active,
 .btn-red-A400.active {
   background: #ff0f5a;
   background-color: #ff0f5a;
-  color: #fff;
 }
 button.color-red-A400,
 a.color-red-A400,
@@ -3162,7 +3146,6 @@ a.btn-red-A700.active,
 .btn-red-A700.active {
   background: #ca002d;
   background-color: #ca002d;
-  color: #fff;
 }
 button.color-red-A700,
 a.color-red-A700,
@@ -3356,7 +3339,6 @@ a.btn-pink.active,
 .btn-pink.active {
   background: #eb3473;
   background-color: #eb3473;
-  color: #fff;
 }
 button.color-pink,
 a.color-pink,
@@ -3550,7 +3532,6 @@ a.btn-pink-50.active,
 .btn-pink-50.active {
   background: #fce7ee;
   background-color: #fce7ee;
-  color: color-purpe-700;
 }
 button.color-pink-50,
 a.color-pink-50,
@@ -3744,7 +3725,6 @@ a.btn-pink-100.active,
 .btn-pink-100.active {
   background: #f9c2d5;
   background-color: #f9c2d5;
-  color: color-purpe-700;
 }
 button.color-pink-100,
 a.color-pink-100,
@@ -3938,7 +3918,6 @@ a.btn-pink-200.active,
 .btn-pink-200.active {
   background: #f59ab9;
   background-color: #f59ab9;
-  color: color-purpe-700;
 }
 button.color-pink-200,
 a.color-pink-200,
@@ -4132,7 +4111,6 @@ a.btn-pink-300.active,
 .btn-pink-300.active {
   background: #f2729d;
   background-color: #f2729d;
-  color: color-purpe-700;
 }
 button.color-pink-300,
 a.color-pink-300,
@@ -4326,7 +4304,6 @@ a.btn-pink-400.active,
 .btn-pink-400.active {
   background: #e92567;
   background-color: #e92567;
-  color: #fff;
 }
 button.color-pink-400,
 a.color-pink-400,
@@ -4520,7 +4497,6 @@ a.btn-pink-500.active,
 .btn-pink-500.active {
   background: #d81557;
   background-color: #d81557;
-  color: #fff;
 }
 button.color-pink-500,
 a.color-pink-500,
@@ -4714,7 +4690,6 @@ a.btn-pink-600.active,
 .btn-pink-600.active {
   background: #c21856;
   background-color: #c21856;
-  color: #fff;
 }
 button.color-pink-600,
 a.color-pink-600,
@@ -4908,7 +4883,6 @@ a.btn-pink-700.active,
 .btn-pink-700.active {
   background: #af1652;
   background-color: #af1652;
-  color: #fff;
 }
 button.color-pink-700,
 a.color-pink-700,
@@ -5102,7 +5076,6 @@ a.btn-pink-800.active,
 .btn-pink-800.active {
   background: #9c124e;
   background-color: #9c124e;
-  color: #fff;
 }
 button.color-pink-800,
 a.color-pink-800,
@@ -5296,7 +5269,6 @@ a.btn-pink-900.active,
 .btn-pink-900.active {
   background: #7a0d47;
   background-color: #7a0d47;
-  color: #fff;
 }
 button.color-pink-900,
 a.color-pink-900,
@@ -5490,7 +5462,6 @@ a.btn-pink-A100.active,
 .btn-pink-A100.active {
   background: #ff8db3;
   background-color: #ff8db3;
-  color: color-purpe-700;
 }
 button.color-pink-A100,
 a.color-pink-A100,
@@ -5684,7 +5655,6 @@ a.btn-pink-A200.active,
 .btn-pink-A200.active {
   background: #ff538e;
   background-color: #ff538e;
-  color: color-purpe-700;
 }
 button.color-pink-A200,
 a.color-pink-A200,
@@ -5878,7 +5848,6 @@ a.btn-pink-A400.active,
 .btn-pink-A400.active {
   background: #dd004e;
   background-color: #dd004e;
-  color: #fff;
 }
 button.color-pink-A400,
 a.color-pink-A400,
@@ -6072,7 +6041,6 @@ a.btn-pink-A700.active,
 .btn-pink-A700.active {
   background: #b10f58;
   background-color: #b10f58;
-  color: #fff;
 }
 button.color-pink-A700,
 a.color-pink-A700,
@@ -6266,7 +6234,6 @@ a.btn-purple.active,
 .btn-purple.active {
   background: #b12cc8;
   background-color: #b12cc8;
-  color: #fff;
 }
 button.color-purple,
 a.color-purple,
@@ -6460,7 +6427,6 @@ a.btn-purple-50.active,
 .btn-purple-50.active {
   background: #f4e8f6;
   background-color: #f4e8f6;
-  color: color-purpe-700;
 }
 button.color-purple-50,
 a.color-purple-50,
@@ -6654,7 +6620,6 @@ a.btn-purple-100.active,
 .btn-purple-100.active {
   background: #e4c5e9;
   background-color: #e4c5e9;
-  color: color-purpe-700;
 }
 button.color-purple-100,
 a.color-purple-100,
@@ -6848,7 +6813,6 @@ a.btn-purple-200.active,
 .btn-purple-200.active {
   background: #d39edc;
   background-color: #d39edc;
-  color: color-purpe-700;
 }
 button.color-purple-200,
 a.color-purple-200,
@@ -7042,7 +7006,6 @@ a.btn-purple-300.active,
 .btn-purple-300.active {
   background: #b052c0;
   background-color: #b052c0;
-  color: #fff;
 }
 button.color-purple-300,
 a.color-purple-300,
@@ -7236,7 +7199,6 @@ a.btn-purple-400.active,
 .btn-purple-400.active {
   background: #9b3eab;
   background-color: #9b3eab;
-  color: #fff;
 }
 button.color-purple-400,
 a.color-purple-400,
@@ -7430,7 +7392,6 @@ a.btn-purple-500.active,
 .btn-purple-500.active {
   background: #8c239e;
   background-color: #8c239e;
-  color: #fff;
 }
 button.color-purple-500,
 a.color-purple-500,
@@ -7624,7 +7585,6 @@ a.btn-purple-600.active,
 .btn-purple-600.active {
   background: #802099;
   background-color: #802099;
-  color: #fff;
 }
 button.color-purple-600,
 a.color-purple-600,
@@ -7818,7 +7778,6 @@ a.btn-purple-700.active,
 .btn-purple-700.active {
   background: #6f1c92;
   background-color: #6f1c92;
-  color: #fff;
 }
 button.color-purple-700,
 a.color-purple-700,
@@ -8012,7 +7971,6 @@ a.btn-purple-800.active,
 .btn-purple-800.active {
   background: #5f188b;
   background-color: #5f188b;
-  color: #fff;
 }
 button.color-purple-800,
 a.color-purple-800,
@@ -8206,7 +8164,6 @@ a.btn-purple-900.active,
 .btn-purple-900.active {
   background: #43127e;
   background-color: #43127e;
-  color: #fff;
 }
 button.color-purple-900,
 a.color-purple-900,
@@ -8400,7 +8357,6 @@ a.btn-purple-A100.active,
 .btn-purple-A100.active {
   background: #ec8dfc;
   background-color: #ec8dfc;
-  color: color-purpe-700;
 }
 button.color-purple-A100,
 a.color-purple-A100,
@@ -8594,7 +8550,6 @@ a.btn-purple-A200.active,
 .btn-purple-A200.active {
   background: #e353fb;
   background-color: #e353fb;
-  color: color-purpe-700;
 }
 button.color-purple-A200,
 a.color-purple-A200,
@@ -8788,7 +8743,6 @@ a.btn-purple-A400.active,
 .btn-purple-A400.active {
   background: #c000e0;
   background-color: #c000e0;
-  color: #fff;
 }
 button.color-purple-A400,
 a.color-purple-A400,
@@ -8982,7 +8936,6 @@ a.btn-purple-A700.active,
 .btn-purple-A700.active {
   background: #9900e6;
   background-color: #9900e6;
-  color: #fff;
 }
 button.color-purple-A700,
 a.color-purple-A700,
@@ -9176,7 +9129,6 @@ a.btn-deep-purple.active,
 .btn-deep-purple.active {
   background: #7447c5;
   background-color: #7447c5;
-  color: #fff;
 }
 button.color-deep-purple,
 a.color-deep-purple,
@@ -9370,7 +9322,6 @@ a.btn-deep-purple-50.active,
 .btn-deep-purple-50.active {
   background: #efe9f7;
   background-color: #efe9f7;
-  color: color-purpe-700;
 }
 button.color-deep-purple-50,
 a.color-deep-purple-50,
@@ -9564,7 +9515,6 @@ a.btn-deep-purple-100.active,
 .btn-deep-purple-100.active {
   background: #efe9f7;
   background-color: #efe9f7;
-  color: color-purpe-700;
 }
 button.color-deep-purple-100,
 a.color-deep-purple-100,
@@ -9758,7 +9708,6 @@ a.btn-deep-purple-200.active,
 .btn-deep-purple-200.active {
   background: #bba7df;
   background-color: #bba7df;
-  color: color-purpe-700;
 }
 button.color-deep-purple-200,
 a.color-deep-purple-200,
@@ -9952,7 +9901,6 @@ a.btn-deep-purple-300.active,
 .btn-deep-purple-300.active {
   background: #a083d2;
   background-color: #a083d2;
-  color: color-purpe-700;
 }
 button.color-deep-purple-300,
 a.color-deep-purple-300,
@@ -10146,7 +10094,6 @@ a.btn-deep-purple-400.active,
 .btn-deep-purple-400.active {
   background: #6e43ba;
   background-color: #6e43ba;
-  color: #fff;
 }
 button.color-deep-purple-400,
 a.color-deep-purple-400,
@@ -10340,7 +10287,6 @@ a.btn-deep-purple-500.active,
 .btn-deep-purple-500.active {
   background: #5d34a5;
   background-color: #5d34a5;
-  color: #fff;
 }
 button.color-deep-purple-500,
 a.color-deep-purple-500,
@@ -10534,7 +10480,6 @@ a.btn-deep-purple-600.active,
 .btn-deep-purple-600.active {
   background: #55309f;
   background-color: #55309f;
-  color: #fff;
 }
 button.color-deep-purple-600,
 a.color-deep-purple-600,
@@ -10728,7 +10673,6 @@ a.btn-deep-purple-700.active,
 .btn-deep-purple-700.active {
   background: #492997;
   background-color: #492997;
-  color: #fff;
 }
 button.color-deep-purple-700,
 a.color-deep-purple-700,
@@ -10922,7 +10866,6 @@ a.btn-deep-purple-800.active,
 .btn-deep-purple-800.active {
   background: #3e2390;
   background-color: #3e2390;
-  color: #fff;
 }
 button.color-deep-purple-800,
 a.color-deep-purple-800,
@@ -11116,7 +11059,6 @@ a.btn-deep-purple-900.active,
 .btn-deep-purple-900.active {
   background: #2c1883;
   background-color: #2c1883;
-  color: #fff;
 }
 button.color-deep-purple-900,
 a.color-deep-purple-900,
@@ -11310,7 +11252,6 @@ a.btn-deep-purple-A100.active,
 .btn-deep-purple-A100.active {
   background: #bb94ff;
   background-color: #bb94ff;
-  color: color-purpe-700;
 }
 button.color-deep-purple-A100,
 a.color-deep-purple-A100,
@@ -11504,7 +11445,6 @@ a.btn-deep-purple-A200.active,
 .btn-deep-purple-A200.active {
   background: #895fff;
   background-color: #895fff;
-  color: color-purpe-700;
 }
 button.color-deep-purple-A200,
 a.color-deep-purple-A200,
@@ -11698,7 +11638,6 @@ a.btn-deep-purple-A400.active,
 .btn-deep-purple-A400.active {
   background: #5102ff;
   background-color: #5102ff;
-  color: #fff;
 }
 button.color-deep-purple-A400,
 a.color-deep-purple-A400,
@@ -11892,7 +11831,6 @@ a.btn-deep-purple-A700.active,
 .btn-deep-purple-A700.active {
   background: #5800d3;
   background-color: #5800d3;
-  color: #fff;
 }
 button.color-deep-purple-A700,
 a.color-deep-purple-A700,
@@ -12086,7 +12024,6 @@ a.btn-indigo.active,
 .btn-indigo.active {
   background: #4d5fc1;
   background-color: #4d5fc1;
-  color: #fff;
 }
 button.color-indigo,
 a.color-indigo,
@@ -12280,7 +12217,6 @@ a.btn-indigo-50.active,
 .btn-indigo-50.active {
   background: #eaecf7;
   background-color: #eaecf7;
-  color: color-purpe-700;
 }
 button.color-indigo-50,
 a.color-indigo-50,
@@ -12474,7 +12410,6 @@ a.btn-indigo-100.active,
 .btn-indigo-100.active {
   background: #cbcfeb;
   background-color: #cbcfeb;
-  color: color-purpe-700;
 }
 button.color-indigo-100,
 a.color-indigo-100,
@@ -12668,7 +12603,6 @@ a.btn-indigo-200.active,
 .btn-indigo-200.active {
   background: #a9b1de;
   background-color: #a9b1de;
-  color: color-purpe-700;
 }
 button.color-indigo-200,
 a.color-indigo-200,
@@ -12862,7 +12796,6 @@ a.btn-indigo-300.active,
 .btn-indigo-300.active {
   background: #8692d0;
   background-color: #8692d0;
-  color: color-purpe-700;
 }
 button.color-indigo-300,
 a.color-indigo-300,
@@ -13056,7 +12989,6 @@ a.btn-indigo-400.active,
 .btn-indigo-400.active {
   background: #4858b8;
   background-color: #4858b8;
-  color: #fff;
 }
 button.color-indigo-400,
 a.color-indigo-400,
@@ -13250,7 +13182,6 @@ a.btn-indigo-500.active,
 .btn-indigo-500.active {
   background: #3949a3;
   background-color: #3949a3;
-  color: #fff;
 }
 button.color-indigo-500,
 a.color-indigo-500,
@@ -13444,7 +13375,6 @@ a.btn-indigo-600.active,
 .btn-indigo-600.active {
   background: #33429a;
   background-color: #33429a;
-  color: #fff;
 }
 button.color-indigo-600,
 a.color-indigo-600,
@@ -13638,7 +13568,6 @@ a.btn-indigo-700.active,
 .btn-indigo-700.active {
   background: #2b398f;
   background-color: #2b398f;
-  color: #fff;
 }
 button.color-indigo-700,
 a.color-indigo-700,
@@ -13832,7 +13761,6 @@ a.btn-indigo-800.active,
 .btn-indigo-800.active {
   background: #243084;
   background-color: #243084;
-  color: #fff;
 }
 button.color-indigo-800,
 a.color-indigo-800,
@@ -14026,7 +13954,6 @@ a.btn-indigo-900.active,
 .btn-indigo-900.active {
   background: #172071;
   background-color: #172071;
-  color: #fff;
 }
 button.color-indigo-900,
 a.color-indigo-900,
@@ -14220,7 +14147,6 @@ a.btn-indigo-A100.active,
 .btn-indigo-A100.active {
   background: #98a8ff;
   background-color: #98a8ff;
-  color: color-purpe-700;
 }
 button.color-indigo-A100,
 a.color-indigo-A100,
@@ -14414,7 +14340,6 @@ a.btn-indigo-A200.active,
 .btn-indigo-A200.active {
   background: #647cfe;
   background-color: #647cfe;
-  color: color-purpe-700;
 }
 button.color-indigo-A200,
 a.color-indigo-A200,
@@ -14608,7 +14533,6 @@ a.btn-indigo-A400.active,
 .btn-indigo-A400.active {
   background: #506afe;
   background-color: #506afe;
-  color: color-purpe-700;
 }
 button.color-indigo-A400,
 a.color-indigo-A400,
@@ -14802,7 +14726,6 @@ a.btn-indigo-A700.active,
 .btn-indigo-A700.active {
   background: #1235fe;
   background-color: #1235fe;
-  color: #fff;
 }
 button.color-indigo-A700,
 a.color-indigo-A700,
@@ -14996,7 +14919,6 @@ a.btn-blue.active,
 .btn-blue.active {
   background: #6785fc;
   background-color: #6785fc;
-  color: #fff;
 }
 button.color-blue,
 a.color-blue,
@@ -15190,7 +15112,6 @@ a.btn-blue-50.active,
 .btn-blue-50.active {
   background: #e9ebfd;
   background-color: #e9ebfd;
-  color: color-purpe-700;
 }
 button.color-blue-50,
 a.color-blue-50,
@@ -15384,7 +15305,6 @@ a.btn-blue-100.active,
 .btn-blue-100.active {
   background: #d5ddff;
   background-color: #d5ddff;
-  color: color-purpe-700;
 }
 button.color-blue-100,
 a.color-blue-100,
@@ -15578,7 +15498,6 @@ a.btn-blue-200.active,
 .btn-blue-200.active {
   background: #b7c5ff;
   background-color: #b7c5ff;
-  color: color-purpe-700;
 }
 button.color-blue-200,
 a.color-blue-200,
@@ -15772,7 +15691,6 @@ a.btn-blue-300.active,
 .btn-blue-300.active {
   background: #9cb0ff;
   background-color: #9cb0ff;
-  color: color-purpe-700;
 }
 button.color-blue-300,
 a.color-blue-300,
@@ -15966,7 +15884,6 @@ a.btn-blue-400.active,
 .btn-blue-400.active {
   background: #819afe;
   background-color: #819afe;
-  color: color-purpe-700;
 }
 button.color-blue-400,
 a.color-blue-400,
@@ -16160,7 +16077,6 @@ a.btn-blue-500.active,
 .btn-blue-500.active {
   background: #6785fc;
   background-color: #6785fc;
-  color: color-purpe-700;
 }
 button.color-blue-500,
 a.color-blue-500,
@@ -16354,7 +16270,6 @@ a.btn-blue-600.active,
 .btn-blue-600.active {
   background: #607bf1;
   background-color: #607bf1;
-  color: color-purpe-700;
 }
 button.color-blue-600,
 a.color-blue-600,
@@ -16548,7 +16463,6 @@ a.btn-blue-700.active,
 .btn-blue-700.active {
   background: #2c49da;
   background-color: #2c49da;
-  color: #fff;
 }
 button.color-blue-700,
 a.color-blue-700,
@@ -16742,7 +16656,6 @@ a.btn-blue-800.active,
 .btn-blue-800.active {
   background: #3044bf;
   background-color: #3044bf;
-  color: #fff;
 }
 button.color-blue-800,
 a.color-blue-800,
@@ -16936,7 +16849,6 @@ a.btn-blue-900.active,
 .btn-blue-900.active {
   background: #26319f;
   background-color: #26319f;
-  color: #fff;
 }
 button.color-blue-900,
 a.color-blue-900,
@@ -17130,7 +17042,6 @@ a.btn-blue-A100.active,
 .btn-blue-A100.active {
   background: #afc1ff;
   background-color: #afc1ff;
-  color: color-purpe-700;
 }
 button.color-blue-A100,
 a.color-blue-A100,
@@ -17324,7 +17235,6 @@ a.btn-blue-A200.active,
 .btn-blue-A200.active {
   background: #7795ff;
   background-color: #7795ff;
-  color: color-purpe-700;
 }
 button.color-blue-A200,
 a.color-blue-A200,
@@ -17518,7 +17428,6 @@ a.btn-blue-A400.active,
 .btn-blue-A400.active {
   background: #5f81ff;
   background-color: #5f81ff;
-  color: color-purpe-700;
 }
 button.color-blue-A400,
 a.color-blue-A400,
@@ -17712,7 +17621,6 @@ a.btn-blue-A700.active,
 .btn-blue-A700.active {
   background: #5f78ff;
   background-color: #5f78ff;
-  color: color-purpe-700;
 }
 button.color-blue-A700,
 a.color-blue-A700,
@@ -17906,7 +17814,6 @@ a.btn-light-blue.active,
 .btn-light-blue.active {
   background: #15b4fc;
   background-color: #15b4fc;
-  color: #fff;
 }
 button.color-light-blue,
 a.color-light-blue,
@@ -18100,7 +18007,6 @@ a.btn-light-blue-50.active,
 .btn-light-blue-50.active {
   background: #e4f6fe;
   background-color: #e4f6fe;
-  color: color-purpe-700;
 }
 button.color-light-blue-50,
 a.color-light-blue-50,
@@ -18294,7 +18200,6 @@ a.btn-light-blue-100.active,
 .btn-light-blue-100.active {
   background: #bbe8fc;
   background-color: #bbe8fc;
-  color: color-purpe-700;
 }
 button.color-light-blue-100,
 a.color-light-blue-100,
@@ -18488,7 +18393,6 @@ a.btn-light-blue-200.active,
 .btn-light-blue-200.active {
   background: #8ed8fa;
   background-color: #8ed8fa;
-  color: color-purpe-700;
 }
 button.color-light-blue-200,
 a.color-light-blue-200,
@@ -18682,7 +18586,6 @@ a.btn-light-blue-300.active,
 .btn-light-blue-300.active {
   background: #61c9f8;
   background-color: #61c9f8;
-  color: color-purpe-700;
 }
 button.color-light-blue-300,
 a.color-light-blue-300,
@@ -18876,7 +18779,6 @@ a.btn-light-blue-400.active,
 .btn-light-blue-400.active {
   background: #0dadf5;
   background-color: #0dadf5;
-  color: #fff;
 }
 button.color-light-blue-400,
 a.color-light-blue-400,
@@ -19070,7 +18972,6 @@ a.btn-light-blue-500.active,
 .btn-light-blue-500.active {
   background: #0398dc;
   background-color: #0398dc;
-  color: #fff;
 }
 button.color-light-blue-500,
 a.color-light-blue-500,
@@ -19264,7 +19165,6 @@ a.btn-light-blue-600.active,
 .btn-light-blue-600.active {
   background: #038bce;
   background-color: #038bce;
-  color: #fff;
 }
 button.color-light-blue-600,
 a.color-light-blue-600,
@@ -19458,7 +19358,6 @@ a.btn-light-blue-700.active,
 .btn-light-blue-700.active {
   background: #027abc;
   background-color: #027abc;
-  color: #fff;
 }
 button.color-light-blue-700,
 a.color-light-blue-700,
@@ -19652,7 +19551,6 @@ a.btn-light-blue-800.active,
 .btn-light-blue-800.active {
   background: #026baa;
   background-color: #026baa;
-  color: #fff;
 }
 button.color-light-blue-800,
 a.color-light-blue-800,
@@ -19846,7 +19744,6 @@ a.btn-light-blue-900.active,
 .btn-light-blue-900.active {
   background: #014e8b;
   background-color: #014e8b;
-  color: #fff;
 }
 button.color-light-blue-900,
 a.color-light-blue-900,
@@ -20040,7 +19937,6 @@ a.btn-light-blue-A100.active,
 .btn-light-blue-A100.active {
   background: #8ddcff;
   background-color: #8ddcff;
-  color: color-purpe-700;
 }
 button.color-light-blue-A100,
 a.color-light-blue-A100,
@@ -20234,7 +20130,6 @@ a.btn-light-blue-A200.active,
 .btn-light-blue-A200.active {
   background: #53caff;
   background-color: #53caff;
-  color: color-purpe-700;
 }
 button.color-light-blue-A200,
 a.color-light-blue-A200,
@@ -20428,7 +20323,6 @@ a.btn-light-blue-A400.active,
 .btn-light-blue-A400.active {
   background: #009ee6;
   background-color: #009ee6;
-  color: #fff;
 }
 button.color-light-blue-A400,
 a.color-light-blue-A400,
@@ -20622,7 +20516,6 @@ a.btn-light-blue-A700.active,
 .btn-light-blue-A700.active {
   background: #0082d3;
   background-color: #0082d3;
-  color: #fff;
 }
 button.color-light-blue-A700,
 a.color-light-blue-A700,
@@ -20816,7 +20709,6 @@ a.btn-cyan.active,
 .btn-cyan.active {
   background: #00d6f2;
   background-color: #00d6f2;
-  color: #fff;
 }
 button.color-cyan,
 a.color-cyan,
@@ -21010,7 +20902,6 @@ a.btn-cyan-50.active,
 .btn-cyan-50.active {
   background: #e3f8fb;
   background-color: #e3f8fb;
-  color: color-purpe-700;
 }
 button.color-cyan-50,
 a.color-cyan-50,
@@ -21204,7 +21095,6 @@ a.btn-cyan-100.active,
 .btn-cyan-100.active {
   background: #baedf3;
   background-color: #baedf3;
-  color: color-purpe-700;
 }
 button.color-cyan-100,
 a.color-cyan-100,
@@ -21398,7 +21288,6 @@ a.btn-cyan-200.active,
 .btn-cyan-200.active {
   background: #8de1ec;
   background-color: #8de1ec;
-  color: color-purpe-700;
 }
 button.color-cyan-200,
 a.color-cyan-200,
@@ -21592,7 +21481,6 @@ a.btn-cyan-300.active,
 .btn-cyan-300.active {
   background: #33c9dd;
   background-color: #33c9dd;
-  color: #fff;
 }
 button.color-cyan-300,
 a.color-cyan-300,
@@ -21786,7 +21674,6 @@ a.btn-cyan-400.active,
 .btn-cyan-400.active {
   background: #22b3c5;
   background-color: #22b3c5;
-  color: #fff;
 }
 button.color-cyan-400,
 a.color-cyan-400,
@@ -21980,7 +21867,6 @@ a.btn-cyan-500.active,
 .btn-cyan-500.active {
   background: #00a9bf;
   background-color: #00a9bf;
-  color: #fff;
 }
 button.color-cyan-500,
 a.color-cyan-500,
@@ -22174,7 +22060,6 @@ a.btn-cyan-600.active,
 .btn-cyan-600.active {
   background: #009bae;
   background-color: #009bae;
-  color: #fff;
 }
 button.color-cyan-600,
 a.color-cyan-600,
@@ -22368,7 +22253,6 @@ a.btn-cyan-700.active,
 .btn-cyan-700.active {
   background: #008896;
   background-color: #008896;
-  color: #fff;
 }
 button.color-cyan-700,
 a.color-cyan-700,
@@ -22562,7 +22446,6 @@ a.btn-cyan-800.active,
 .btn-cyan-800.active {
   background: #007681;
   background-color: #007681;
-  color: #fff;
 }
 button.color-cyan-800,
 a.color-cyan-800,
@@ -22756,7 +22639,6 @@ a.btn-cyan-900.active,
 .btn-cyan-900.active {
   background: #00565a;
   background-color: #00565a;
-  color: #fff;
 }
 button.color-cyan-900,
 a.color-cyan-900,
@@ -22950,7 +22832,6 @@ a.btn-cyan-A100.active,
 .btn-cyan-A100.active {
   background: #90ffff;
   background-color: #90ffff;
-  color: color-purpe-700;
 }
 button.color-cyan-A100,
 a.color-cyan-A100,
@@ -23144,7 +23025,6 @@ a.btn-cyan-A200.active,
 .btn-cyan-A200.active {
   background: #00fbfb;
   background-color: #00fbfb;
-  color: #fff;
 }
 button.color-cyan-A200,
 a.color-cyan-A200,
@@ -23338,7 +23218,6 @@ a.btn-cyan-A400.active,
 .btn-cyan-A400.active {
   background: #00cee6;
   background-color: #00cee6;
-  color: #fff;
 }
 button.color-cyan-A400,
 a.color-cyan-A400,
@@ -23532,7 +23411,6 @@ a.btn-cyan-A700.active,
 .btn-cyan-A700.active {
   background: #00a6bf;
   background-color: #00a6bf;
-  color: #fff;
 }
 button.color-cyan-A700,
 a.color-cyan-A700,
@@ -23726,7 +23604,6 @@ a.btn-teal.active,
 .btn-teal.active {
   background: #00baa9;
   background-color: #00baa9;
-  color: #fff;
 }
 button.color-teal,
 a.color-teal,
@@ -23920,7 +23797,6 @@ a.btn-teal-50.active,
 .btn-teal-50.active {
   background: #e3f3f2;
   background-color: #e3f3f2;
-  color: color-purpe-700;
 }
 button.color-teal-50,
 a.color-teal-50,
@@ -24114,7 +23990,6 @@ a.btn-teal-100.active,
 .btn-teal-100.active {
   background: #bae2df;
   background-color: #bae2df;
-  color: color-purpe-700;
 }
 button.color-teal-100,
 a.color-teal-100,
@@ -24308,7 +24183,6 @@ a.btn-teal-200.active,
 .btn-teal-200.active {
   background: #8dd0ca;
   background-color: #8dd0ca;
-  color: color-purpe-700;
 }
 button.color-teal-200,
 a.color-teal-200,
@@ -24502,7 +24376,6 @@ a.btn-teal-300.active,
 .btn-teal-300.active {
   background: #44a59c;
   background-color: #44a59c;
-  color: #fff;
 }
 button.color-teal-300,
 a.color-teal-300,
@@ -24696,7 +24569,6 @@ a.btn-teal-400.active,
 .btn-teal-400.active {
   background: #22958b;
   background-color: #22958b;
-  color: #fff;
 }
 button.color-teal-400,
 a.color-teal-400,
@@ -24890,7 +24762,6 @@ a.btn-teal-500.active,
 .btn-teal-500.active {
   background: #00877a;
   background-color: #00877a;
-  color: #fff;
 }
 button.color-teal-500,
 a.color-teal-500,
@@ -25084,7 +24955,6 @@ a.btn-teal-600.active,
 .btn-teal-600.active {
   background: #007b6f;
   background-color: #007b6f;
-  color: #fff;
 }
 button.color-teal-600,
 a.color-teal-600,
@@ -25278,7 +25148,6 @@ a.btn-teal-700.active,
 .btn-teal-700.active {
   background: #006d60;
   background-color: #006d60;
-  color: #fff;
 }
 button.color-teal-700,
 a.color-teal-700,
@@ -25472,7 +25341,6 @@ a.btn-teal-800.active,
 .btn-teal-800.active {
   background: #005e53;
   background-color: #005e53;
-  color: #fff;
 }
 button.color-teal-800,
 a.color-teal-800,
@@ -25666,7 +25534,6 @@ a.btn-teal-900.active,
 .btn-teal-900.active {
   background: #00453a;
   background-color: #00453a;
-  color: #fff;
 }
 button.color-teal-900,
 a.color-teal-900,
@@ -25860,7 +25727,6 @@ a.btn-teal-A100.active,
 .btn-teal-A100.active {
   background: #b0ffed;
   background-color: #b0ffed;
-  color: color-purpe-700;
 }
 button.color-teal-A100,
 a.color-teal-A100,
@@ -26054,7 +25920,6 @@ a.btn-teal-A200.active,
 .btn-teal-A200.active {
   background: #73ffde;
   background-color: #73ffde;
-  color: color-purpe-700;
 }
 button.color-teal-A200,
 a.color-teal-A200,
@@ -26248,7 +26113,6 @@ a.btn-teal-A400.active,
 .btn-teal-A400.active {
   background: #15d7a6;
   background-color: #15d7a6;
-  color: #fff;
 }
 button.color-teal-A400,
 a.color-teal-A400,
@@ -26442,7 +26306,6 @@ a.btn-teal-A700.active,
 .btn-teal-A700.active {
   background: #00ac95;
   background-color: #00ac95;
-  color: #fff;
 }
 button.color-teal-A700,
 a.color-teal-A700,
@@ -26636,7 +26499,6 @@ a.btn-green.active,
 .btn-green.active {
   background: #2bb52a;
   background-color: #2bb52a;
-  color: #fff;
 }
 button.color-green,
 a.color-green,
@@ -26830,7 +26692,6 @@ a.btn-green-50.active,
 .btn-green-50.active {
   background: #d5f9d3;
   background-color: #d5f9d3;
-  color: color-purpe-700;
 }
 button.color-green-50,
 a.color-green-50,
@@ -27024,7 +26885,6 @@ a.btn-green-100.active,
 .btn-green-100.active {
   background: #acebad;
   background-color: #acebad;
-  color: color-purpe-700;
 }
 button.color-green-100,
 a.color-green-100,
@@ -27218,7 +27078,6 @@ a.btn-green-200.active,
 .btn-green-200.active {
   background: #80d980;
   background-color: #80d980;
-  color: color-purpe-700;
 }
 button.color-green-200,
 a.color-green-200,
@@ -27412,7 +27271,6 @@ a.btn-green-300.active,
 .btn-green-300.active {
   background: #3baa3b;
   background-color: #3baa3b;
-  color: #fff;
 }
 button.color-green-300,
 a.color-green-300,
@@ -27606,7 +27464,6 @@ a.btn-green-400.active,
 .btn-green-400.active {
   background: #279e27;
   background-color: #279e27;
-  color: #fff;
 }
 button.color-green-400,
 a.color-green-400,
@@ -27800,7 +27657,6 @@ a.btn-green-500.active,
 .btn-green-500.active {
   background: #218c20;
   background-color: #218c20;
-  color: #fff;
 }
 button.color-green-500,
 a.color-green-500,
@@ -27994,7 +27850,6 @@ a.btn-green-600.active,
 .btn-green-600.active {
   background: #098107;
   background-color: #098107;
-  color: #fff;
 }
 button.color-green-600,
 a.color-green-600,
@@ -28188,7 +28043,6 @@ a.btn-green-700.active,
 .btn-green-700.active {
   background: #097106;
   background-color: #097106;
-  color: #fff;
 }
 button.color-green-700,
 a.color-green-700,
@@ -28382,7 +28236,6 @@ a.btn-green-800.active,
 .btn-green-800.active {
   background: #046400;
   background-color: #046400;
-  color: #fff;
 }
 button.color-green-800,
 a.color-green-800,
@@ -28576,7 +28429,6 @@ a.btn-green-900.active,
 .btn-green-900.active {
   background: #0c4b02;
   background-color: #0c4b02;
-  color: #fff;
 }
 button.color-green-900,
 a.color-green-900,
@@ -28770,7 +28622,6 @@ a.btn-green-A100.active,
 .btn-green-A100.active {
   background: #abf898;
   background-color: #abf898;
-  color: color-purpe-700;
 }
 button.color-green-A100,
 a.color-green-A100,
@@ -28964,7 +28815,6 @@ a.btn-green-A200.active,
 .btn-green-A200.active {
   background: #6af269;
   background-color: #6af269;
-  color: color-purpe-700;
 }
 button.color-green-A200,
 a.color-green-A200,
@@ -29158,7 +29008,6 @@ a.btn-green-A400.active,
 .btn-green-A400.active {
   background: #12d013;
   background-color: #12d013;
-  color: #fff;
 }
 button.color-green-A400,
 a.color-green-A400,
@@ -29352,7 +29201,6 @@ a.btn-green-A700.active,
 .btn-green-A700.active {
   background: #10b300;
   background-color: #10b300;
-  color: #fff;
 }
 button.color-green-A700,
 a.color-green-A700,
@@ -29546,7 +29394,6 @@ a.btn-light-green.active,
 .btn-light-green.active {
   background: #97c95c;
   background-color: #97c95c;
-  color: #fff;
 }
 button.color-light-green,
 a.color-light-green,
@@ -29740,7 +29587,6 @@ a.btn-light-green-50.active,
 .btn-light-green-50.active {
   background: #f2f9eb;
   background-color: #f2f9eb;
-  color: color-purpe-700;
 }
 button.color-light-green-50,
 a.color-light-green-50,
@@ -29934,7 +29780,6 @@ a.btn-light-green-100.active,
 .btn-light-green-100.active {
   background: #e0efce;
   background-color: #e0efce;
-  color: color-purpe-700;
 }
 button.color-light-green-100,
 a.color-light-green-100,
@@ -30128,7 +29973,6 @@ a.btn-light-green-200.active,
 .btn-light-green-200.active {
   background: #cbe4ae;
   background-color: #cbe4ae;
-  color: color-purpe-700;
 }
 button.color-light-green-200,
 a.color-light-green-200,
@@ -30322,7 +30166,6 @@ a.btn-light-green-300.active,
 .btn-light-green-300.active {
   background: #b6d98e;
   background-color: #b6d98e;
-  color: color-purpe-700;
 }
 button.color-light-green-300,
 a.color-light-green-300,
@@ -30516,7 +30359,6 @@ a.btn-light-green-400.active,
 .btn-light-green-400.active {
   background: #8dc44e;
   background-color: #8dc44e;
-  color: #fff;
 }
 button.color-light-green-400,
 a.color-light-green-400,
@@ -30710,7 +30552,6 @@ a.btn-light-green-500.active,
 .btn-light-green-500.active {
   background: #7eb63c;
   background-color: #7eb63c;
-  color: #fff;
 }
 button.color-light-green-500,
 a.color-light-green-500,
@@ -30904,7 +30745,6 @@ a.btn-light-green-600.active,
 .btn-light-green-600.active {
   background: #70a13b;
   background-color: #70a13b;
-  color: #fff;
 }
 button.color-light-green-600,
 a.color-light-green-600,
@@ -31098,7 +30938,6 @@ a.btn-light-green-700.active,
 .btn-light-green-700.active {
   background: #5e8f32;
   background-color: #5e8f32;
-  color: #fff;
 }
 button.color-light-green-700,
 a.color-light-green-700,
@@ -31292,7 +31131,6 @@ a.btn-light-green-800.active,
 .btn-light-green-800.active {
   background: #4c7d2a;
   background-color: #4c7d2a;
-  color: #fff;
 }
 button.color-light-green-800,
 a.color-light-green-800,
@@ -31486,7 +31324,6 @@ a.btn-light-green-900.active,
 .btn-light-green-900.active {
   background: #2e5e1b;
   background-color: #2e5e1b;
-  color: #fff;
 }
 button.color-light-green-900,
 a.color-light-green-900,
@@ -31680,7 +31517,6 @@ a.btn-light-green-A100.active,
 .btn-light-green-A100.active {
   background: #d1ff9b;
   background-color: #d1ff9b;
-  color: color-purpe-700;
 }
 button.color-light-green-A100,
 a.color-light-green-A100,
@@ -31874,7 +31710,6 @@ a.btn-light-green-A200.active,
 .btn-light-green-A200.active {
   background: #baff6a;
   background-color: #baff6a;
-  color: color-purpe-700;
 }
 button.color-light-green-A200,
 a.color-light-green-A200,
@@ -32068,7 +31903,6 @@ a.btn-light-green-A400.active,
 .btn-light-green-A400.active {
   background: #6ae800;
   background-color: #6ae800;
-  color: #fff;
 }
 button.color-light-green-A400,
 a.color-light-green-A400,
@@ -32262,7 +32096,6 @@ a.btn-light-green-A700.active,
 .btn-light-green-A700.active {
   background: #5ac715;
   background-color: #5ac715;
-  color: #fff;
 }
 button.color-light-green-A700,
 a.color-light-green-A700,
@@ -32456,7 +32289,6 @@ a.btn-lime.active,
 .btn-lime.active {
   background: #d2e04d;
   background-color: #d2e04d;
-  color: #fff;
 }
 button.color-lime,
 a.color-lime,
@@ -32650,7 +32482,6 @@ a.btn-lime-50.active,
 .btn-lime-50.active {
   background: #fafbe9;
   background-color: #fafbe9;
-  color: color-purpe-700;
 }
 button.color-lime-50,
 a.color-lime-50,
@@ -32844,7 +32675,6 @@ a.btn-lime-100.active,
 .btn-lime-100.active {
   background: #f2f5c9;
   background-color: #f2f5c9;
-  color: color-purpe-700;
 }
 button.color-lime-100,
 a.color-lime-100,
@@ -33038,7 +32868,6 @@ a.btn-lime-200.active,
 .btn-lime-200.active {
   background: #e8f0a6;
   background-color: #e8f0a6;
-  color: color-purpe-700;
 }
 button.color-lime-200,
 a.color-lime-200,
@@ -33232,7 +33061,6 @@ a.btn-lime-300.active,
 .btn-lime-300.active {
   background: #e0e983;
   background-color: #e0e983;
-  color: color-purpe-700;
 }
 button.color-lime-300,
 a.color-lime-300,
@@ -33426,7 +33254,6 @@ a.btn-lime-400.active,
 .btn-lime-400.active {
   background: #d8e468;
   background-color: #d8e468;
-  color: color-purpe-700;
 }
 button.color-lime-400,
 a.color-lime-400,
@@ -33620,7 +33447,6 @@ a.btn-lime-500.active,
 .btn-lime-500.active {
   background: #c4d425;
   background-color: #c4d425;
-  color: #fff;
 }
 button.color-lime-500,
 a.color-lime-500,
@@ -33814,7 +33640,6 @@ a.btn-lime-600.active,
 .btn-lime-600.active {
   background: #adb62e;
   background-color: #adb62e;
-  color: #fff;
 }
 button.color-lime-600,
 a.color-lime-600,
@@ -34008,7 +33833,6 @@ a.btn-lime-700.active,
 .btn-lime-700.active {
   background: #9da227;
   background-color: #9da227;
-  color: #fff;
 }
 button.color-lime-700,
 a.color-lime-700,
@@ -34202,7 +34026,6 @@ a.btn-lime-800.active,
 .btn-lime-800.active {
   background: #8e8d20;
   background-color: #8e8d20;
-  color: #fff;
 }
 button.color-lime-800,
 a.color-lime-800,
@@ -34396,7 +34219,6 @@ a.btn-lime-900.active,
 .btn-lime-900.active {
   background: #756b15;
   background-color: #756b15;
-  color: #fff;
 }
 button.color-lime-900,
 a.color-lime-900,
@@ -34590,7 +34412,6 @@ a.btn-lime-A100.active,
 .btn-lime-A100.active {
   background: #f5ff8e;
   background-color: #f5ff8e;
-  color: color-purpe-700;
 }
 button.color-lime-A100,
 a.color-lime-A100,
@@ -34784,7 +34605,6 @@ a.btn-lime-A200.active,
 .btn-lime-A200.active {
   background: #f0ff54;
   background-color: #f0ff54;
-  color: color-purpe-700;
 }
 button.color-lime-A200,
 a.color-lime-A200,
@@ -34978,7 +34798,6 @@ a.btn-lime-A400.active,
 .btn-lime-A400.active {
   background: #b2e600;
   background-color: #b2e600;
-  color: #fff;
 }
 button.color-lime-A400,
 a.color-lime-A400,
@@ -35172,7 +34991,6 @@ a.btn-lime-A700.active,
 .btn-lime-A700.active {
   background: #9dd300;
   background-color: #9dd300;
-  color: #fff;
 }
 button.color-lime-A700,
 a.color-lime-A700,
@@ -35366,7 +35184,6 @@ a.btn-yellow.active,
 .btn-yellow.active {
   background: #ffed4f;
   background-color: #ffed4f;
-  color: #fff;
 }
 button.color-yellow,
 a.color-yellow,
@@ -35560,7 +35377,6 @@ a.btn-yellow-50.active,
 .btn-yellow-50.active {
   background: #fffde9;
   background-color: #fffde9;
-  color: color-purpe-700;
 }
 button.color-yellow-50,
 a.color-yellow-50,
@@ -35754,7 +35570,6 @@ a.btn-yellow-100.active,
 .btn-yellow-100.active {
   background: #fffaca;
   background-color: #fffaca;
-  color: color-purpe-700;
 }
 button.color-yellow-100,
 a.color-yellow-100,
@@ -35948,7 +35763,6 @@ a.btn-yellow-200.active,
 .btn-yellow-200.active {
   background: #fff6a7;
   background-color: #fff6a7;
-  color: color-purpe-700;
 }
 button.color-yellow-200,
 a.color-yellow-200,
@@ -36142,7 +35956,6 @@ a.btn-yellow-300.active,
 .btn-yellow-300.active {
   background: #fff284;
   background-color: #fff284;
-  color: color-purpe-700;
 }
 button.color-yellow-300,
 a.color-yellow-300,
@@ -36336,7 +36149,6 @@ a.btn-yellow-400.active,
 .btn-yellow-400.active {
   background: #fff069;
   background-color: #fff069;
-  color: color-purpe-700;
 }
 button.color-yellow-400,
 a.color-yellow-400,
@@ -36530,7 +36342,6 @@ a.btn-yellow-500.active,
 .btn-yellow-500.active {
   background: #ffed4f;
   background-color: #ffed4f;
-  color: color-purpe-700;
 }
 button.color-yellow-500,
 a.color-yellow-500,
@@ -36724,7 +36535,6 @@ a.btn-yellow-600.active,
 .btn-yellow-600.active {
   background: #fddc49;
   background-color: #fddc49;
-  color: #fff;
 }
 button.color-yellow-600,
 a.color-yellow-600,
@@ -36918,7 +36728,6 @@ a.btn-yellow-700.active,
 .btn-yellow-700.active {
   background: #fab710;
   background-color: #fab710;
-  color: #fff;
 }
 button.color-yellow-700,
 a.color-yellow-700,
@@ -37112,7 +36921,6 @@ a.btn-yellow-800.active,
 .btn-yellow-800.active {
   background: #f89d09;
   background-color: #f89d09;
-  color: #fff;
 }
 button.color-yellow-800,
 a.color-yellow-800,
@@ -37306,7 +37114,6 @@ a.btn-yellow-900.active,
 .btn-yellow-900.active {
   background: #e7720a;
   background-color: #e7720a;
-  color: #fff;
 }
 button.color-yellow-900,
 a.color-yellow-900,
@@ -37500,7 +37307,6 @@ a.btn-yellow-A100.active,
 .btn-yellow-A100.active {
   background: #ffff98;
   background-color: #ffff98;
-  color: color-purpe-700;
 }
 button.color-yellow-A100,
 a.color-yellow-A100,
@@ -37694,7 +37500,6 @@ a.btn-yellow-A200.active,
 .btn-yellow-A200.active {
   background: #e5e600;
   background-color: #e5e600;
-  color: #fff;
 }
 button.color-yellow-A200,
 a.color-yellow-A200,
@@ -37888,7 +37693,6 @@ a.btn-yellow-A400.active,
 .btn-yellow-A400.active {
   background: #e6d300;
   background-color: #e6d300;
-  color: #fff;
 }
 button.color-yellow-A400,
 a.color-yellow-A400,
@@ -38082,7 +37886,6 @@ a.btn-yellow-A700.active,
 .btn-yellow-A700.active {
   background: #e6c100;
   background-color: #e6c100;
-  color: #fff;
 }
 button.color-yellow-A700,
 a.color-yellow-A700,
@@ -38276,7 +38079,6 @@ a.btn-amber.active,
 .btn-amber.active {
   background: #ffc720;
   background-color: #ffc720;
-  color: #fff;
 }
 button.color-amber,
 a.color-amber,
@@ -38470,7 +38272,6 @@ a.btn-amber-50.active,
 .btn-amber-50.active {
   background: #fff9e4;
   background-color: #fff9e4;
-  color: color-purpe-700;
 }
 button.color-amber-50,
 a.color-amber-50,
@@ -38664,7 +38465,6 @@ a.btn-amber-100.active,
 .btn-amber-100.active {
   background: #feb;
   background-color: #feb;
-  color: color-purpe-700;
 }
 button.color-amber-100,
 a.color-amber-100,
@@ -38858,7 +38658,6 @@ a.btn-amber-200.active,
 .btn-amber-200.active {
   background: #ffe38f;
   background-color: #ffe38f;
-  color: color-purpe-700;
 }
 button.color-amber-200,
 a.color-amber-200,
@@ -39052,7 +38851,6 @@ a.btn-amber-300.active,
 .btn-amber-300.active {
   background: #ffd961;
   background-color: #ffd961;
-  color: color-purpe-700;
 }
 button.color-amber-300,
 a.color-amber-300,
@@ -39246,7 +39044,6 @@ a.btn-amber-400.active,
 .btn-amber-400.active {
   background: #ffc30a;
   background-color: #ffc30a;
-  color: #fff;
 }
 button.color-amber-400,
 a.color-amber-400,
@@ -39440,7 +39237,6 @@ a.btn-amber-500.active,
 .btn-amber-500.active {
   background: #ecb100;
   background-color: #ecb100;
-  color: #fff;
 }
 button.color-amber-500,
 a.color-amber-500,
@@ -39634,7 +39430,6 @@ a.btn-amber-600.active,
 .btn-amber-600.active {
   background: #e6a100;
   background-color: #e6a100;
-  color: #fff;
 }
 button.color-amber-600,
 a.color-amber-600,
@@ -39828,7 +39623,6 @@ a.btn-amber-700.active,
 .btn-amber-700.active {
   background: #e69000;
   background-color: #e69000;
-  color: #fff;
 }
 button.color-amber-700,
 a.color-amber-700,
@@ -40022,7 +39816,6 @@ a.btn-amber-800.active,
 .btn-amber-800.active {
   background: #e68100;
   background-color: #e68100;
-  color: #fff;
 }
 button.color-amber-800,
 a.color-amber-800,
@@ -40216,7 +40009,6 @@ a.btn-amber-900.active,
 .btn-amber-900.active {
   background: #e66400;
   background-color: #e66400;
-  color: #fff;
 }
 button.color-amber-900,
 a.color-amber-900,
@@ -40410,7 +40202,6 @@ a.btn-amber-A100.active,
 .btn-amber-A100.active {
   background: #ffe88c;
   background-color: #ffe88c;
-  color: color-purpe-700;
 }
 button.color-amber-A100,
 a.color-amber-A100,
@@ -40604,7 +40395,6 @@ a.btn-amber-A200.active,
 .btn-amber-A200.active {
   background: #ffdb53;
   background-color: #ffdb53;
-  color: color-purpe-700;
 }
 button.color-amber-A200,
 a.color-amber-A200,
@@ -40798,7 +40588,6 @@ a.btn-amber-A400.active,
 .btn-amber-A400.active {
   background: #e6b000;
   background-color: #e6b000;
-  color: #fff;
 }
 button.color-amber-A400,
 a.color-amber-A400,
@@ -40992,7 +40781,6 @@ a.btn-amber-A700.active,
 .btn-amber-A700.active {
   background: #e69a00;
   background-color: #e69a00;
-  color: #fff;
 }
 button.color-amber-A700,
 a.color-amber-A700,
@@ -41186,7 +40974,6 @@ a.btn-orange.active,
 .btn-orange.active {
   background: #ffa21a;
   background-color: #ffa21a;
-  color: #fff;
 }
 button.color-orange,
 a.color-orange,
@@ -41380,7 +41167,6 @@ a.btn-orange-50.active,
 .btn-orange-50.active {
   background: #fff4e3;
   background-color: #fff4e3;
-  color: color-purpe-700;
 }
 button.color-orange-50,
 a.color-orange-50,
@@ -41574,7 +41360,6 @@ a.btn-orange-100.active,
 .btn-orange-100.active {
   background: #ffe3ba;
   background-color: #ffe3ba;
-  color: color-purpe-700;
 }
 button.color-orange-100,
 a.color-orange-100,
@@ -41768,7 +41553,6 @@ a.btn-orange-200.active,
 .btn-orange-200.active {
   background: #ffd18d;
   background-color: #ffd18d;
-  color: color-purpe-700;
 }
 button.color-orange-200,
 a.color-orange-200,
@@ -41962,7 +41746,6 @@ a.btn-orange-300.active,
 .btn-orange-300.active {
   background: #ffbe5f;
   background-color: #ffbe5f;
-  color: color-purpe-700;
 }
 button.color-orange-300,
 a.color-orange-300,
@@ -42156,7 +41939,6 @@ a.btn-orange-400.active,
 .btn-orange-400.active {
   background: #ff9b09;
   background-color: #ff9b09;
-  color: #fff;
 }
 button.color-orange-400,
 a.color-orange-400,
@@ -42350,7 +42132,6 @@ a.btn-orange-500.active,
 .btn-orange-500.active {
   background: #e68900;
   background-color: #e68900;
-  color: #fff;
 }
 button.color-orange-500,
 a.color-orange-500,
@@ -42544,7 +42325,6 @@ a.btn-orange-600.active,
 .btn-orange-600.active {
   background: #e27e00;
   background-color: #e27e00;
-  color: #fff;
 }
 button.color-orange-600,
 a.color-orange-600,
@@ -42738,7 +42518,6 @@ a.btn-orange-700.active,
 .btn-orange-700.active {
   background: #dd7000;
   background-color: #dd7000;
-  color: #fff;
 }
 button.color-orange-700,
 a.color-orange-700,
@@ -42932,7 +42711,6 @@ a.btn-orange-800.active,
 .btn-orange-800.active {
   background: #d76100;
   background-color: #d76100;
-  color: #fff;
 }
 button.color-orange-800,
 a.color-orange-800,
@@ -43126,7 +42904,6 @@ a.btn-orange-900.active,
 .btn-orange-900.active {
   background: #cf4900;
   background-color: #cf4900;
-  color: #fff;
 }
 button.color-orange-900,
 a.color-orange-900,
@@ -43320,7 +43097,6 @@ a.btn-orange-A100.active,
 .btn-orange-A100.active {
   background: #ffd68d;
   background-color: #ffd68d;
-  color: color-purpe-700;
 }
 button.color-orange-A100,
 a.color-orange-A100,
@@ -43514,7 +43290,6 @@ a.btn-orange-A200.active,
 .btn-orange-A200.active {
   background: #ffb353;
   background-color: #ffb353;
-  color: color-purpe-700;
 }
 button.color-orange-A200,
 a.color-orange-A200,
@@ -43708,7 +43483,6 @@ a.btn-orange-A400.active,
 .btn-orange-A400.active {
   background: #e68300;
   background-color: #e68300;
-  color: #fff;
 }
 button.color-orange-A400,
 a.color-orange-A400,
@@ -43902,7 +43676,6 @@ a.btn-orange-A700.active,
 .btn-orange-A700.active {
   background: #e66200;
   background-color: #e66200;
-  color: #fff;
 }
 button.color-orange-A700,
 a.color-orange-A700,
@@ -44096,7 +43869,6 @@ a.btn-deep-orange.active,
 .btn-deep-orange.active {
   background: #ff6838;
   background-color: #ff6838;
-  color: #fff;
 }
 button.color-deep-orange,
 a.color-deep-orange,
@@ -44290,7 +44062,6 @@ a.btn-deep-orange-50.active,
 .btn-deep-orange-50.active {
   background: #fbebe9;
   background-color: #fbebe9;
-  color: color-purpe-700;
 }
 button.color-deep-orange-50,
 a.color-deep-orange-50,
@@ -44484,7 +44255,6 @@ a.btn-deep-orange-100.active,
 .btn-deep-orange-100.active {
   background: #ffd1c3;
   background-color: #ffd1c3;
-  color: color-purpe-700;
 }
 button.color-deep-orange-100,
 a.color-deep-orange-100,
@@ -44678,7 +44448,6 @@ a.btn-deep-orange-200.active,
 .btn-deep-orange-200.active {
   background: #ffb39c;
   background-color: #ffb39c;
-  color: color-purpe-700;
 }
 button.color-deep-orange-200,
 a.color-deep-orange-200,
@@ -44872,7 +44641,6 @@ a.btn-deep-orange-300.active,
 .btn-deep-orange-300.active {
   background: #ff9674;
   background-color: #ff9674;
-  color: color-purpe-700;
 }
 button.color-deep-orange-300,
 a.color-deep-orange-300,
@@ -45066,7 +44834,6 @@ a.btn-deep-orange-400.active,
 .btn-deep-orange-400.active {
   background: #ff7e56;
   background-color: #ff7e56;
-  color: color-purpe-700;
 }
 button.color-deep-orange-400,
 a.color-deep-orange-400,
@@ -45260,7 +45027,6 @@ a.btn-deep-orange-500.active,
 .btn-deep-orange-500.active {
   background: #ff4105;
   background-color: #ff4105;
-  color: #fff;
 }
 button.color-deep-orange-500,
 a.color-deep-orange-500,
@@ -45454,7 +45220,6 @@ a.btn-deep-orange-600.active,
 .btn-deep-orange-600.active {
   background: #eb410b;
   background-color: #eb410b;
-  color: #fff;
 }
 button.color-deep-orange-600,
 a.color-deep-orange-600,
@@ -45648,7 +45413,6 @@ a.btn-deep-orange-700.active,
 .btn-deep-orange-700.active {
   background: #cf4317;
   background-color: #cf4317;
-  color: #fff;
 }
 button.color-deep-orange-700,
 a.color-deep-orange-700,
@@ -45842,7 +45606,6 @@ a.btn-deep-orange-800.active,
 .btn-deep-orange-800.active {
   background: #c23c13;
   background-color: #c23c13;
-  color: #fff;
 }
 button.color-deep-orange-800,
 a.color-deep-orange-800,
@@ -46036,7 +45799,6 @@ a.btn-deep-orange-900.active,
 .btn-deep-orange-900.active {
   background: #ac310b;
   background-color: #ac310b;
-  color: #fff;
 }
 button.color-deep-orange-900,
 a.color-deep-orange-900,
@@ -46230,7 +45992,6 @@ a.btn-deep-orange-A100.active,
 .btn-deep-orange-A100.active {
   background: #ffa88d;
   background-color: #ffa88d;
-  color: color-purpe-700;
 }
 button.color-deep-orange-A100,
 a.color-deep-orange-A100,
@@ -46424,7 +46185,6 @@ a.btn-deep-orange-A200.active,
 .btn-deep-orange-A200.active {
   background: #ff7d53;
   background-color: #ff7d53;
-  color: color-purpe-700;
 }
 button.color-deep-orange-A200,
 a.color-deep-orange-A200,
@@ -46618,7 +46378,6 @@ a.btn-deep-orange-A400.active,
 .btn-deep-orange-A400.active {
   background: #e63700;
   background-color: #e63700;
-  color: #fff;
 }
 button.color-deep-orange-A400,
 a.color-deep-orange-A400,
@@ -46812,7 +46571,6 @@ a.btn-deep-orange-A700.active,
 .btn-deep-orange-A700.active {
   background: #c72800;
   background-color: #c72800;
-  color: #fff;
 }
 button.color-deep-orange-A700,
 a.color-deep-orange-A700,
@@ -47006,7 +46764,6 @@ a.btn-brown.active,
 .btn-brown.active {
   background: #8d6354;
   background-color: #8d6354;
-  color: #fff;
 }
 button.color-brown,
 a.color-brown,
@@ -47200,7 +46957,6 @@ a.btn-brown-50.active,
 .btn-brown-50.active {
   background: #f1edeb;
   background-color: #f1edeb;
-  color: color-purpe-700;
 }
 button.color-brown-50,
 a.color-brown-50,
@@ -47394,7 +47150,6 @@ a.btn-brown-100.active,
 .btn-brown-100.active {
   background: #dbd1ce;
   background-color: #dbd1ce;
-  color: color-purpe-700;
 }
 button.color-brown-100,
 a.color-brown-100,
@@ -47588,7 +47343,6 @@ a.btn-brown-200.active,
 .btn-brown-200.active {
   background: #c3b2ad;
   background-color: #c3b2ad;
-  color: color-purpe-700;
 }
 button.color-brown-200,
 a.color-brown-200,
@@ -47782,7 +47536,6 @@ a.btn-brown-300.active,
 .btn-brown-300.active {
   background: #95796e;
   background-color: #95796e;
-  color: #fff;
 }
 button.color-brown-300,
 a.color-brown-300,
@@ -47976,7 +47729,6 @@ a.btn-brown-400.active,
 .btn-brown-400.active {
   background: #7f6359;
   background-color: #7f6359;
-  color: #fff;
 }
 button.color-brown-400,
 a.color-brown-400,
@@ -48170,7 +47922,6 @@ a.btn-brown-500.active,
 .btn-brown-500.active {
   background: #6d4d41;
   background-color: #6d4d41;
-  color: #fff;
 }
 button.color-brown-500,
 a.color-brown-500,
@@ -48364,7 +48115,6 @@ a.btn-brown-600.active,
 .btn-brown-600.active {
   background: #62443b;
   background-color: #62443b;
-  color: #fff;
 }
 button.color-brown-600,
 a.color-brown-600,
@@ -48558,7 +48308,6 @@ a.btn-brown-700.active,
 .btn-brown-700.active {
   background: #543a31;
   background-color: #543a31;
-  color: #fff;
 }
 button.color-brown-700,
 a.color-brown-700,
@@ -48752,7 +48501,6 @@ a.btn-brown-800.active,
 .btn-brown-800.active {
   background: #462f29;
   background-color: #462f29;
-  color: #fff;
 }
 button.color-brown-800,
 a.color-brown-800,
@@ -48946,7 +48694,6 @@ a.btn-brown-900.active,
 .btn-brown-900.active {
   background: #382320;
   background-color: #382320;
-  color: #fff;
 }
 button.color-brown-900,
 a.color-brown-900,
@@ -49140,7 +48887,6 @@ a.btn-grey.active,
 .btn-grey.active {
   background: #a8a8a8;
   background-color: #a8a8a8;
-  color: #fff;
 }
 button.color-grey,
 a.color-grey,
@@ -49334,7 +49080,6 @@ a.btn-grey-50.active,
 .btn-grey-50.active {
   background: #fbfbfb;
   background-color: #fbfbfb;
-  color: color-purpe-700;
 }
 button.color-grey-50,
 a.color-grey-50,
@@ -49528,7 +49273,6 @@ a.btn-grey-100.active,
 .btn-grey-100.active {
   background: #f6f6f6;
   background-color: #f6f6f6;
-  color: color-purpe-700;
 }
 button.color-grey-100,
 a.color-grey-100,
@@ -49722,7 +49466,6 @@ a.btn-grey-200.active,
 .btn-grey-200.active {
   background: #f0f0f0;
   background-color: #f0f0f0;
-  color: color-purpe-700;
 }
 button.color-grey-200,
 a.color-grey-200,
@@ -49916,7 +49659,6 @@ a.btn-grey-300.active,
 .btn-grey-300.active {
   background: #e3e3e3;
   background-color: #e3e3e3;
-  color: color-purpe-700;
 }
 button.color-grey-300,
 a.color-grey-300,
@@ -50110,7 +49852,6 @@ a.btn-grey-400.active,
 .btn-grey-400.active {
   background: #c4c4c4;
   background-color: #c4c4c4;
-  color: color-purpe-700;
 }
 button.color-grey-400,
 a.color-grey-400,
@@ -50304,7 +50045,6 @@ a.btn-grey-500.active,
 .btn-grey-500.active {
   background: #a8a8a8;
   background-color: #a8a8a8;
-  color: color-purpe-700;
 }
 button.color-grey-500,
 a.color-grey-500,
@@ -50498,7 +50238,6 @@ a.btn-grey-600.active,
 .btn-grey-600.active {
   background: #696969;
   background-color: #696969;
-  color: #fff;
 }
 button.color-grey-600,
 a.color-grey-600,
@@ -50692,7 +50431,6 @@ a.btn-grey-700.active,
 .btn-grey-700.active {
   background: #575757;
   background-color: #575757;
-  color: #fff;
 }
 button.color-grey-700,
 a.color-grey-700,
@@ -50886,7 +50624,6 @@ a.btn-grey-800.active,
 .btn-grey-800.active {
   background: #3b3b3b;
   background-color: #3b3b3b;
-  color: #fff;
 }
 button.color-grey-800,
 a.color-grey-800,
@@ -51080,7 +50817,6 @@ a.btn-grey-900.active,
 .btn-grey-900.active {
   background: #1e1e1e;
   background-color: #1e1e1e;
-  color: #fff;
 }
 button.color-grey-900,
 a.color-grey-900,
@@ -51274,7 +51010,6 @@ a.btn-grey-1000.active,
 .btn-grey-1000.active {
   background: #000;
   background-color: #000;
-  color: #fff;
 }
 button.color-grey-1000,
 a.color-grey-1000,
@@ -51468,7 +51203,6 @@ a.btn-blue-grey.active,
 .btn-blue-grey.active {
   background: #6d8b9a;
   background-color: #6d8b9a;
-  color: #fff;
 }
 button.color-blue-grey,
 a.color-blue-grey,
@@ -51662,7 +51396,6 @@ a.btn-blue-grey-50.active,
 .btn-blue-grey-50.active {
   background: #eef1f2;
   background-color: #eef1f2;
-  color: color-purpe-700;
 }
 button.color-blue-grey-50,
 a.color-blue-grey-50,
@@ -51856,7 +51589,6 @@ a.btn-blue-grey-100.active,
 .btn-blue-grey-100.active {
   background: #d4dce0;
   background-color: #d4dce0;
-  color: color-purpe-700;
 }
 button.color-blue-grey-100,
 a.color-blue-grey-100,
@@ -52050,7 +51782,6 @@ a.btn-blue-grey-200.active,
 .btn-blue-grey-200.active {
   background: #b8c5cb;
   background-color: #b8c5cb;
-  color: color-purpe-700;
 }
 button.color-blue-grey-200,
 a.color-blue-grey-200,
@@ -52244,7 +51975,6 @@ a.btn-blue-grey-300.active,
 .btn-blue-grey-300.active {
   background: #9badb6;
   background-color: #9badb6;
-  color: color-purpe-700;
 }
 button.color-blue-grey-300,
 a.color-blue-grey-300,
@@ -52438,7 +52168,6 @@ a.btn-blue-grey-400.active,
 .btn-blue-grey-400.active {
   background: #69838f;
   background-color: #69838f;
-  color: #fff;
 }
 button.color-blue-grey-400,
 a.color-blue-grey-400,
@@ -52632,7 +52361,6 @@ a.btn-blue-grey-500.active,
 .btn-blue-grey-500.active {
   background: #56707d;
   background-color: #56707d;
-  color: #fff;
 }
 button.color-blue-grey-500,
 a.color-blue-grey-500,
@@ -52826,7 +52554,6 @@ a.btn-blue-grey-600.active,
 .btn-blue-grey-600.active {
   background: #4c636e;
   background-color: #4c636e;
-  color: #fff;
 }
 button.color-blue-grey-600,
 a.color-blue-grey-600,
@@ -53020,7 +52747,6 @@ a.btn-blue-grey-700.active,
 .btn-blue-grey-700.active {
   background: #3e515a;
   background-color: #3e515a;
-  color: #fff;
 }
 button.color-blue-grey-700,
 a.color-blue-grey-700,
@@ -53214,7 +52940,6 @@ a.btn-blue-grey-800.active,
 .btn-blue-grey-800.active {
   background: #314047;
   background-color: #314047;
-  color: #fff;
 }
 button.color-blue-grey-800,
 a.color-blue-grey-800,
@@ -53408,7 +53133,6 @@ a.btn-blue-grey-900.active,
 .btn-blue-grey-900.active {
   background: #222d32;
   background-color: #222d32;
-  color: #fff;
 }
 button.color-blue-grey-900,
 a.color-blue-grey-900,
@@ -53541,9 +53265,4 @@ a.link-blue-grey-900.active,
 .border-blue-grey-900-left {
   border-left-color: #263238;
   border-left-style: solid;
-}
-.btn-white,
-[btn-color="white"],
-[btn-white] {
-  color: #424242;
 }

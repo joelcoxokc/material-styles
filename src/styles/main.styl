@@ -339,15 +339,16 @@ materializer-color-elements(color, hex, primary = false)
     background hex
 
   buttonLightnessColor()
-    if lightness(hex) > 60 and primary is not true
-      color color-purpe-700
-    else if lightness(hex) > 63 and primary is not true
-      color color-grey-100
-    else if lightness(hex) > 62 and primary is not true
-      color color-grey-200
-    else
-      color color-white
+      if lightness(hex) > 60 and primary is not true
+        color color-purpe-700
+      else if lightness(hex) > 63 and primary is not true
+        color color-grey-100
+      else if lightness(hex) > 62 and primary is not true
+        color color-grey-200
+      else
+        color color-white
   buttonLightnessBackground()
+
     if lightness(hex) < 60 and primary is not true
       background darken(hex, 10%)
       background-color darken(hex, 10%)
@@ -374,7 +375,7 @@ materializer-color-elements(color, hex, primary = false)
     &:active,
     &.active
       buttonLightnessBackground()
-      buttonLightnessColor()
+      // buttonLightnessColor()
 
   textStyles()
     color hex
@@ -488,10 +489,3 @@ for color, types in material_design_colors
     else
       define('color-'+color+'-'+key, val)
       materializer-color-elements(color+'-'+key, val, false)
-
-
-.btn-white,
-[btn-color="white"],
-[btn-white] {
-  color color-default
-}
